@@ -70,7 +70,7 @@ run Koast.
 
 # Contributors
 
-* Varun Vachhar (@winkerVsBecks), rangle.io
+* Varun Vachhar ([winkerVsBecks](https://github.com/winkerVsBecks)), rangle.io
 * Simon Ramsey, rangle.io
-* Sumit Arora (@sumitarora), rangle.io
-* Yuri Takhteyev (@yuri), rangle.io
+* Sumit Arora ([sumitarora](https://github.com/sumitarora)), rangle.io
+* Yuri Takhteyev ([yuri](https://github.com/yuri)), rangle.io
