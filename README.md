@@ -11,8 +11,7 @@ This repository contains the code for <http://brained.io>.
     ```bash
       sudo npm install -g bower
     ```
-
-(Skip "sudo" if using Windows.)
+    (Skip "sudo" if using Windows.)
 
 4. Clone this repository:
 
@@ -60,7 +59,8 @@ The following environment variables are optional:
 
 # Deploying to Heroku
 
-Deploying to Heroku is a matter of pushing to your Heroku remote.
+Deploying to Heroku is a matter of pushing to your Heroku remote. Make sure to
+set all the necessary environment variables using Heroku's admin interface.
 
 # Additional Resources
 
