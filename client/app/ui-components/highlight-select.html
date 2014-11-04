@@ -1,0 +1,38 @@
+<button class="btn hlt-toggle" ng-click="isCollapsed = !isCollapsed">Highlight Area <span class="caret"></span></button>
+
+<tabset collapse="isCollapsed" class="hlt-container">
+
+  <tab heading="Functional Areas" class="list-group">
+    <a
+    	href=""
+    	class="list-group-item"
+    	ng-repeat="(name, area) in funcAreas"
+        ng-click="toggleFA(name)"
+    >
+    <i class="select-indic" ng-class="{active: isFASelected(name)}" ></i>
+    {{name}}
+    <color-selector model-object="funcAreas[name][0].color" functional-area="name" opacity="funcAreas[name][0].opacity" ng-if="isFASelected(name)"></color-selector>
+    </a>
+  </tab>
+
+  <tab heading="Brodmann Areas" class="list-group">
+    <a
+        ng-href=""
+    	class="list-group-item"
+    	ng-repeat="area in brodmannAreas | toArray"
+        ng-class="{disabled: isBAInSelectedFAs(area.regionName)}"
+        ng-click="toggleBA(area.regionName,area.opacity)"
+    >
+    	<i class="select-indic" ng-class="{active: isBASelected(area.regionName)}" ></i>
+    	{{area.regionName | brodmannlabels}}
+
+    	<color-selector
+            model-object="area.color"
+            brodmann-area="area.regionName"
+            sides="area.sides"
+            opacity="area.opacity"
+            ng-if="isBASelected(area.regionName)"></color-selector>
+    </a>
+  </tab>
+
+</tabset>

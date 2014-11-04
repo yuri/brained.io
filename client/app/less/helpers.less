@@ -1,0 +1,146 @@
+.full-height {
+	height: 100% !important;
+}
+
+.border-box {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;  
+          box-sizing: border-box;
+}
+
+.fill-page {
+	.border-box;
+	height: 100%;
+	padding-top: @navbar-height;
+}
+
+.btn-line(@accent) {
+	.button-variant(@light-grey; @black; @black);
+
+  background: @black;
+  color: @accent;
+  border-color: @accent;
+
+	&:hover,
+	&:active,
+	&:focus {
+ 		background: @black;
+ 		.box-shadow(none);
+ 		color: @accent;
+		border-color: @accent;
+  	outline: 0;
+  	outline-offset: 0;
+	}
+
+  &.disabled,
+  &:disabled {
+    border-color: @light-grey;
+    color: @light-grey;
+  }
+}
+
+.btn-line-bg(@accent, @bg) {
+  .button-variant(@light-grey; @bg; @bg);
+
+  background: @black;
+  color: @accent;
+  border-color: @accent;
+
+  &:hover,
+  &:active,
+  &:focus {
+    background: @black;
+    .box-shadow(none);
+    color: @accent;
+    border-color: @accent;
+    outline: 0;
+    outline-offset: 0;
+  }
+}
+
+.add-bottom {
+  margin-bottom: 40px !important;
+}
+
+.scrollable {
+  overflow-x: auto;
+  overflow-y: scroll;
+  -webkit-transition-property: top, bottom;
+  transition-property: top, bottom;
+  -webkit-transition-duration: .2s, .2s;
+  transition-duration: .2s, .2s;
+  -webkit-transition-timing-function: linear, linear;
+  transition-timing-function: linear, linear;
+  -webkit-overflow-scrolling: touch;
+}
+
+
+// ----------------------------------
+// FLEX
+// ----------------------------------
+.flex-container {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-direction: normal;
+     -moz-box-direction: normal;
+  -webkit-box-orient: horizontal;
+     -moz-box-orient: horizontal;
+  -webkit-flex-direction: row;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-flex-wrap: nowrap;
+      -ms-flex-wrap: nowrap;
+          flex-wrap: nowrap;
+  -webkit-box-pack: start;
+     -moz-box-pack: start;
+     -ms-flex-pack: start;
+  -webkit-justify-content: flex-start;
+          justify-content: flex-start;
+  -webkit-align-content: stretch;
+     -ms-flex-line-pack: stretch;
+          align-content: stretch;
+}
+
+.flex-fixed-width(@width) {
+  -webkit-flex: 0 1 @width;
+      -ms-flex: 0 1 @width;
+          flex: 0 1 @width;
+  -ms-flex-item-align: auto;
+   -webkit-align-self: auto;
+           align-self: auto;
+}
+
+.flex-expander() {
+  -webkit-flex: 1 1 auto;
+      -ms-flex: 1 1 auto;
+          flex: 1 1 auto;
+  -ms-flex-item-align: auto;
+   -webkit-align-self: auto;
+           align-self: auto;
+}
+
+.clear-focus {
+  &:focus {
+    .box-shadow(none);
+    outline: 0;
+    outline-offset: 0;
+  }
+}
+
+
+.bg {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background: #444444; /* Old browsers */
+  background: -moz-radial-gradient(center, ellipse cover,  #444444 0%, #222222 100%); /* FF3.6+ */
+  background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#444444), color-stop(100%,#222222)); /* Chrome,Safari4+ */
+  background: -webkit-radial-gradient(center, ellipse cover,  #444444 0%,#222222 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-radial-gradient(center, ellipse cover,  #444444 0%,#222222 100%); /* Opera 12+ */
+  background: -ms-radial-gradient(center, ellipse cover,  #444444 0%,#222222 100%); /* IE10+ */
+  background: radial-gradient(ellipse at center,  #444444 0%,#222222 100%); /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#444444', endColorstr='#222222',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}

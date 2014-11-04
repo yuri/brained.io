@@ -1,0 +1,35 @@
+{
+  "app": {
+    "portNumber": "env:PORT"
+  },
+  "oauth": {
+    "facebook": {
+      "clientID": "701720919880681",
+      "clientSecret": "FACEBOOK_CLIENT_SECRET",
+      "callbackURL": "http://brained.io/auth/facebook/callback"
+    },
+    "twitter": {
+      "consumerKey": "6Wd4t0GpG48TJpr4tdmj7A",
+      "consumerSecret": "GOOGLE_CLIENT_SECRET",
+      "callbackURL": "http://brained.io/auth/twitter/callback"
+    },
+    "google": {
+      "clientID": "722433929417-i6kcj7t7ap52hirkruiqdg2dj5tjubdt.apps.googleusercontent.com",
+      "clientSecret": "TWITTER_CLIENT_SECRET",
+      "callbackURL": "http://brained.io/auth/google/callback"
+    }
+  },
+  "secrets": {
+    "cookieSecret": "env:COOKIE_SECRET"
+  },
+  "databases": [
+    {
+      "host": "ds033439.mongolab.com",
+      "port": "33439",
+      "db": "brained",
+      "user": "brained",
+      "pass": "env:DATABASE_PASSWORD",
+      "schemas": "./server/dbSchemas.js"
+    }
+  ]
+}

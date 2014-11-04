@@ -1,0 +1,19 @@
+<div class="newPresentation" ng-if="appDelegate.isCreatingPresentation" >
+	<div class="newPresForm" >
+		
+		<h1>New Presentation</h1>
+		<form>
+			<input type="text" class="form-control" placeholder="Title" ng-model="title" required/><br />
+			<input type="text" class="form-control" placeholder="Short Name for use in url" ng-model="slug" required/><br />
+			<div class="actions">
+				<button type="button" ng-click="create(title,slug)" class="btn btn-line-green ">CREATE</button>
+				<button type="button" ng-click="cancel()" class="btn btn-line-grey ">CANCEL</button>
+
+			</div>
+		</form>
+
+
+	</div>
+	<!--semi transparent black background-->
+	<div class="backdrop"/>
+</div>

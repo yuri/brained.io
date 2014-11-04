@@ -1,0 +1,59 @@
+{
+  "app": {
+    "indexHtml" : "client/app/index.html",
+    "lessPaths": [
+      ["/app", "client/app"]
+    ],
+    "routes" : [
+      {
+        "route" : "/app/fonts",
+        "type": "static",
+        "path" : "client/bower_components/font-awesome/fonts"    
+      },
+      {
+        "route" : "/img",
+        "type": "static",
+        "path" : "client/app/img"    
+      },
+      {
+        "route" : "/app",
+        "type": "static",
+        "path" : "client/app"    
+      },
+      {
+        "route" : "/mock",
+        "type": "static",
+        "path" : "client/mocks"    
+      },
+      {
+        "route" : "/bower_components",
+        "type": "static", 
+        "path" : "client/bower_components"    
+      },
+      {
+        "route" : "/custom_components",
+        "type": "static",
+        "path" : "client/custom_components"    
+      },
+      {
+        "route" : "/api",
+        "type": "module",
+        "module" : "server/lib/api"   
+      }
+    ]
+  },
+  "authentication": {
+    "strategy": "social",
+    "maintenance": "cookie"
+  },
+  "aws": {
+    "global": {
+      "accessKeyId": "env:AWS_ACCESS_KEY",
+      "secretAccessKey": "env:AWS_SECRET_KEY",
+      "region": "us-east-1"
+    },
+    "s3": {
+      "bucket": "env:AWS_S3_BUCKET"
+    }
+  }
+}

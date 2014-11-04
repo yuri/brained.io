@@ -1,0 +1,35 @@
+<div class="content" ng-class="{ drawerOpen: appDelegate.drawer.isOpen }">
+	<nav class="filter-nav">
+		<ul>
+ 			<li>
+				<a ng-click="displayPresentations(0)" ng-class="{active:filterby == 0}" href="">All</a>
+			</li>			
+ 			<li>
+				<a ng-click="displayPresentations(1)" ng-class="{active:filterby == 1}" href="">Featured</a>
+			</li>
+			<li>
+				<a ng-click="displayPresentations(2)" ng-class="{active:filterby == 2}" href="">Latest</a>
+			</li>
+		</ul>
+
+		<form class="search" role="search">
+			<div class="form-group">
+      	<input type="search" class="form-control" ng-model="searchText" ng-change="searchChange()" placeholder="Search presentation...">
+      </div>
+    </form>
+	</nav>
+
+	<div class="presentations-list">	  
+	  <div class="presentation" ng-repeat="presentation in presentation.other | filter: filterFunction | filter:searchText | orderBy:orderBy" ng-if="filterPres(presentation)">
+	    <!-- Screenshot Thumbnail -->
+	    <a ui-sref="presentations.detail.slide({ owner: presentation.owner, slug: presentation.slug, slideId : 1 })">
+	      <img ng-src="{{presentation.screenshot || '/img/brain-200x300.png'}}" class="img-thumbnail">
+	    </a>
+	    <!-- Title and Owner -->
+	    <div class="caption">
+	      <h5>{{presentation.name}}</h5>
+	      <p>by {{presentation.owner}}</p>
+	    </div>
+	  </div>
+	</div>
+</div>

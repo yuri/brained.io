@@ -1,0 +1,3106 @@
+[
+ {
+  "slug"        : "SensationAndPerception",
+	"name"        : "Sensation and Perception",
+	"owner"       : "verold",
+  "editors"     : ["yuri"],
+	"screenshot"  : "",
+	"description" : "Sensation and perception of the five senses, including somatosensory, vision, hearing, smell, and taste",
+	"timestamp"   : "",
+	"featured"    : true,
+	"icon"								: "/app/img/icon-somatosensory.svg",
+
+	"slides"      : [
+		{
+			"camera"              : "622933",
+			"name"								: "Sensation and Perception",
+			"description"					: "Sensation and perception of the five senses, including somatosensory, vision, hearing, smell, and taste",
+			"cameraPos"   : "Parietal", 
+			"highlights"  : [
+			{
+				"regionName": "brodmann1",
+				"color": "#FA2B31"
+			},		
+			{
+				"regionName": "brodmann2",
+				"color": "#FA2B31"
+			},
+			{
+				"regionName": "brodmann3",
+				"color": "#FA2B31"
+			},
+			{
+				"regionName": "brodmann5",
+				"color": "#FA2B31"
+			},
+			{
+				"regionName": "brodmann17",
+				"color": "#FA2B31"
+			},
+			{
+				"regionName": "brodmann18",
+				"color": "#FA2B31"
+			},
+			{
+				"regionName": "brodmann19",
+				"color": "#FA2B31"
+			},
+			{
+				"regionName": "brodmann21",
+				"color": "#FA2B31"
+			},
+			{
+				"regionName": "brodmann22",
+				"color": "#FA2B31"
+			},
+			{
+				"regionName": "brodmann27",
+				"color": "#FA2B31"
+			},
+			{
+				"regionName": "brodmann37",
+				"color": "#FA2B31"
+			},
+			{
+				"regionName": "brodmann38",
+				"color": "#FA2B31"
+			},
+			{
+				"regionName": "brodmann40",
+				"color": "#FA2B31"
+			},
+			{
+				"regionName": "brodmann41",
+				"color": "#FA2B31"
+			},
+			{
+				"regionName": "brodmann42",
+				"color": "#FA2B31"
+			},
+			{
+				"regionName": "brodmann43",
+				"color": "#FA2B31"
+			},
+			{
+				"regionName": "brodmann44",
+				"color": "#FA2B31"
+			},
+			{
+				"regionName": "brodmann52",
+				"color": "#FA2B31"
+			}
+			],
+		    "aside"	: {
+			  "data": [
+			    {
+			      "type": "heading",
+			      "data": {
+			        "text": "Sensation and Perception"
+			      }
+			    },
+			    {
+			      "type": "text",
+			      "data": {
+			        "text": "The somatosensory system is a diverse sensory system comprising the receptors and processing centres to produce the sensory modalities such as touch, temperature, proprioception (body position), and nociception (pain). The sensory receptors cover the skin and epithelia, skeletal muscles, bones and joints, internal organs, and the cardiovascular system."
+			    	}
+			    },
+			    {
+			      "type": "text",
+			      "data": {
+			        "text": "While touch (also called tactile tactual perception) is considered one of the five traditional senses, the impression of touch is formed from several modalities. In medicine, the colloquial term \"touch\" is usually replaced with \"somatic senses\" to better reflect the variety of mechanisms involved."
+			    	}
+			    },
+			    {
+			      "type": "text",
+			      "data": {
+			        "text": "Somatic senses are sometimes referred to as somesthetic senses, with the understanding that somesthesis includes touch, proprioception and (depending on usage) also haptic perception."
+			    	}
+			    },   
+			    {
+			      "type": "text",
+			      "data": {
+			        "text": "The system reacts to diverse stimuli using different receptors: thermoreceptors, nociceptors, mechanoreceptors and chemoreceptors. Transmission of information from the receptors passes via sensory nerves through tracts in the spinal cord and into the brain. Processing primarily occurs in the primary somatosensory area in the parietal lobe of the cerebral cortex."
+			      }
+			    },
+			    {
+			      "type": "text",
+			      "data": {
+			        "text": "At its simplest, the system works when activity in a sensory neuron is triggered by a specific stimulus such as heat; this signal eventually passes to an area in the brain uniquely attributed to that area on the body”this allows the processed stimulus to be felt at the correct location. The point-to-point mapping of the body surfaces in the brain is called a homunculus and is essential in the creation of a body image. This brain-surface (\"cortical\") map is not immutable, however. Dramatic shifts can occur in response to stroke or injury."
+			      }
+			    }			    
+			  ]
+			}},
+
+
+		{
+			"camera"              : "622933",
+			"name"								: "brodmann 1, 2, 3",
+			"description"					: "Sensation and perception of the five senses, including somatosensory, vision, hearing, smell, and taste",
+			"cameraPos"   : "Parietal", 
+			"highlights"  : [
+			{
+				"regionName": "brodmann1",
+				"color": "#FA2B31"
+			},		
+			{
+				"regionName": "brodmann2",
+				"color": "#FA2B31"
+			},
+			{
+				"regionName": "brodmann3",
+				"color": "#FA2B31"
+			}],
+		    "aside"	: {
+			  "data": [
+			    {
+			      "type": "heading",
+			      "data": {
+			        "text": "brodmann 1, 2, 3"
+			      }
+			    },
+			    {
+			      "type": "text",
+			      "data": {
+			        "text": "__Primary somatosensory cortex (aka S1)__:  Responsible for sense and localization touch, including temperature, vibrations, pressure, pain, and sense of relative position of the body in space (proprioception). An internal map of the parts of the body are mapped here, and is called the sensory homunculus (http://en.wikipedia.org/wiki/Cortical_homunculus). This is a representation of the extent to which S1 innervates various body parts."
+			      }
+			    },
+			    {
+			      "type": "text",
+			      "data": {
+			        "text": "Some have argued that only BA 3 should be called S1, as it receives the most sensation input from thalamocortical areas, as compared to BA 1 and 2. In addition, BA 1 and 2 receive multiple inputs from BA 3."
+			      }
+			    },
+			    {
+			      "type": "text",
+			      "data": {
+			        "text": "__Other functions__:\n\n- Activated as a result of mirror neuron activation. Mirror neurons are activated when we observe others performing actions. They are implicated in empathy perception.\n\n- Anticipation of movement, pain, and touch; and motor learning."
+			      }
+			    },
+			    {
+			      "type": "text",
+			      "data": {
+			        "text": "Lesions here are associated with impaired orientation of the sensations on the skin (_agraphesthesia_, http://en.wikipedia.org/wiki/Agraphesthesia); the inability to identify an object through touch (_astereognosia_, http://en.wikipedia.org/wiki/Astereognosia), and loss of touch, including vibration and sense of relative position of the body in space (_proprioception_), and fine touch discrimination."
+			      }
+			    }
+			  ]
+			}},
+		{
+			"camera"      : "622933",
+			"name"		  : "brodmann 5",
+			"description" : "Sensation and perception of the five senses, including somatosensory, vision, hearing, smell, and taste",
+			"cameraPos"   : "Parietal", 
+			"highlights"  : [
+			{
+				"regionName": "brodmann5",
+				"color": "#FA2B31"
+			}],
+		    "aside"	: {
+				"data": [
+				{
+				  "type": "heading",
+				  "data": {
+				    "text": "brodmann 5"
+				  }
+				},
+				{
+				  "type": "text",
+				  "data": {
+				    "text": "__Secondary sensorimotor cortex (S2), aka Somatosensory Association Cortex__:\n  Involved in processing somatosensory information and associations. Specific examples include mental rotation, manipulation/co-ordination when using both hands, and mental imagery of motor movement. The right side of S2 is responsible for visuospatial processing, including perceiving personal space and spatial imagery.\nIn conjunction with BA 7, BA 5 is also implicated in motor learning. "
+				  }
+				},
+				{
+				  "type": "text",
+				  "data": {
+						"text": "__Other functions__:\n\n-  Detecting rhyme"
+				  }
+				}
+				]
+			}
+		},
+		{
+			"camera"      : "622933",
+			"name"		  : "brodmann 17",
+			"description" : "Sensation and perception of the five senses, including somatosensory, vision, hearing, smell, and taste",
+			"cameraPos"   : "Occipital", 
+			"highlights"  : [
+			{
+				"regionName": "brodmann17",
+				"color": "#FA2B31"
+			}],
+		    "aside"	: {
+				"data": [
+				{
+				  "type": "heading",
+				  "data": {
+				    "text": "brodmann 17"
+				  }
+				},
+				{
+				  "type": "text",
+				  "data": {
+				    "text": "__Primary visual cortex (V1):__ Processing of visual information"
+				  }
+				},
+				{
+				  "type": "text",
+				  "data": {
+						"text": "Lesions to BA 17 result in a hole in the visual field (_scotoma_, http://en.wikipedia.org/wiki/Scotoma).  "
+				  }
+				}
+				]
+			}
+		},
+		{
+			"camera"      : "622933",
+			"name"		  : "brodmann 18",
+			"description" : "Sensation and perception of the five senses, including somatosensory, vision, hearing, smell, and taste",
+			"cameraPos"   : "Occipital", 
+			"highlights"  : [
+			{
+				"regionName": "brodmann18",
+				"color": "#FA2B31"
+			}],
+		    "aside"	: {
+				"data": [
+				{
+				  "type": "heading",
+				  "data": {
+				    "text": "brodmann 18"
+				  }
+				},
+				{
+				  "type": "text",
+				  "data": {
+				    "text": "__Secondary visual cortex (V2), aka Visual Association Area:__  Involved in the interpretation of images via perception of orientation, spatial frequency, size, colour, and shape."
+				  }
+				},
+				{
+				  "type": "text",
+				  "data": {
+						"text": "__Other functions:__ Encoding of faces and words; associating names and faces; emotional responses and attention in visual processing; mental imagery"
+				  }
+				},
+				{
+				  "type": "text",
+				  "data": {
+						"text": "Lesions to BA 18 can manifest in an impairment in recognition of visually presented objects (_visual agnosia_, http://en.wikipedia.org/wiki/Visual_agnosia). "
+				  }
+				}]
+			}
+		},
+		{
+			"camera"      : "622933",
+			"name"		  : "brodmann 19",
+			"description" : "Sensation and perception of the five senses, including somatosensory, vision, hearing, smell, and taste",
+			"cameraPos"   : "Occipital", 
+			"highlights"  : [
+			{
+				"regionName": "brodmann19",
+				"color": "#FA2B31"
+			}],
+		    "aside"	: {
+				"data": [
+				{
+				  "type": "heading",
+				  "data": {
+				    "text": "brodmann 19"
+				  }
+				},
+				{
+				  "type": "text",
+				  "data": {
+				    "text": "__Associative Visual Cortex (V3):__ Though there is some overlap with the BA 18’s functions, BA 19 is primarily involved in working memory for spatial items, and localizing the source of a visual stimulus."
+				  }
+				},
+				{
+				  "type": "text",
+				  "data": {
+						"text": "This area also receives inputs from the retina, and has been implicated in the phenomenon of blindsight (http://en.wikipedia.org/wiki/Blindsight. People with _blindsight_ suffer damage to the Primary Visual Cortex (BA 17) and are thus “cortically blind”, but can still respond to stimuli they do not consciously see."
+				  }
+				}]
+			}
+		},
+		{
+			"camera"      : "622933",
+			"name"		  : "brodmann 21",
+			"description" : "Sensation and perception of the five senses, including somatosensory, vision, hearing, smell, and taste",
+			"cameraPos"   : "Temporal", 
+			"highlights"  : [
+			{
+				"regionName": "brodmann21",
+				"color": "#FA2B31"
+			}],
+		    "aside"	: {
+				"data": [
+				{
+				  "type": "heading",
+				  "data": {
+				    "text": "brodmann 21"
+				  }
+				},
+				{
+				  "type": "text",
+				  "data": {
+				    "text": "__Middle temporal gyrus:__ Involved in processing of speech (language) and non-speech sounds. Language processing is governed by the left part of BA 21."
+				  }
+				}]
+			}
+		},
+		{
+			"camera"      : "622933",
+			"name"		  : "brodmann 22",
+			"description" : "Sensation and perception of the five senses, including somatosensory, vision, hearing, smell, and taste",
+			"cameraPos"   : "Temporal", 
+			"highlights"  : [
+			{
+				"regionName": "brodmann22",
+				"color": "#FA2B31"
+			}],
+		    "aside"	: {
+				"data": [
+				{
+				  "type": "heading",
+				  "data": {
+				    "text": "brodmann 22"
+				  }
+				},
+				{
+				  "type": "text",
+				  "data": {
+				    "text": "__Superior temporal gyrus (Wernicke’s Area):__ Involved in language processing –specifically, the meaning of words (_semantics_). "
+				  }
+				},
+				{
+				  "type": "text",
+				  "data": {
+				    "text": "The left side of BA 22 is implicated in generating and understanding individual words; the right side of BA 22 is implicated in discrimination of pitch and intensity of sound, which are used to process _prosody_ (vocal rhythm, stress, and intonation) and melody."
+				  }
+				},
+				{
+				  "type": "text",
+				  "data": {
+				    "text": "Lesions to BA 22 typically result in language disorder called fluent _aphasia_ http://en.wikipedia.org/wiki/Receptive_aphasia), which involves difficulty understanding language, either spoken or written. "
+				  }
+				}]
+			}
+		},
+		{
+			"camera"      : "622933",
+			"name"		  : "brodmann 27",
+			"description" : "Sensation and perception of the five senses, including somatosensory, vision, hearing, smell, and taste",
+			"cameraPos"   : "Limbic", 
+			"highlights"  : [
+			{
+				"regionName": "brodmann27",
+				"color": "#FA2B31"
+			}],
+		    "aside"	: {
+				"data": [
+				{
+				  "type": "heading",
+				  "data": {
+				    "text": "brodmann 27"
+				  }
+				},
+				{
+				  "type": "text",
+				  "data": {
+				    "text": "__Piriform cortex:__ Involved in sense of smell (olfaction)"
+				  }
+				},
+				{
+				  "type": "text",
+				  "data": {
+				    "text": "Areas within BA 27 have been shown to trigger epileptic seizures; called Area Tempestas*.\n* Piredda, & Gale (1995)."
+				  }
+				}]
+			}
+		}
+	]
+ },
+ {
+  "slug"        : "Motor",
+  "name"        : "Motor",
+  "owner"       : "verold",
+  "screenshot"  : "",
+  "description" : "Implementation of movement",
+  "timestamp"   : "",
+  "featured"    : true,
+  "icon"		: "/app/img/icon-motor.svg",
+  "slides"      : [{
+		"camera"              : "622933",
+		"name"								: "Motor",
+		"description"					: "Implementation of movement",
+		"cameraPos"   : "Frontal", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann4",
+			"color": "#FA2B31"
+		},
+		{
+			"regionName": "brodmann6",
+			"color": "#FA2B31"
+		},
+		{
+			"regionName": "brodmann8",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "Motor"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "The motor cortex can be divided into several main parts:\n\nthe primary motor cortex is the main contributor to generating neural impulses that pass down to the spinal cord and control the execution of movement. However, some of the other motor cortical fields also play a role in this function.\n\nthe premotor cortex is responsible for some aspects of motor control, possibly including the preparation for movement, the sensory guidance of movement, the spatial guidance of reaching, or the direct control of some movements with an emphasis on control of proximal and trunk muscles of the body.\n\nthe supplementary motor area (or SMA), has many proposed functions including the internally generated planning of movement, the planning of sequences of movement, and the coordination of the two sides of the body such as in bi-manual coordination.\n\nThe posterior parietal cortex is sometimes also considered to be part of the group of motor cortical areas. It is thought to be responsible for transforming multisensory information into motor commands, and to be responsible for some aspects of motor planning, in addition to many other functions that may not be motor related.\n\nThe primary somatosensory cortex, especially the part called area 3a, which lies directly against the motor cortex, is sometimes considered to be functionally part of the motor control circuitry.\n\nOther brain regions outside the cerebral cortex are also of great importance to motor function, most notably the cerebellum, the basal ganglia, and the red nucleus, as well as other subcortical motor nuclei."
+		      }
+		    }
+		  ]
+		}
+	},
+    {
+		"camera"              : "622933",
+		"name"								: "brodmann 4",
+		"description"					: "",
+		"cameraPos"   : "Frontal", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann4",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 4"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Primary motor cortex (M1):__   Responsible for motor functions. BA 4 contains cell bodies that control voluntary movement. Different parts of M1 determine movements in different parts of the body. E.g., The dorsal area is responsible for contralateral finger, hand and wrist movements. An internal map of the parts of the body are mapped here, and is called the motor homunculus (http://en.wikipedia.org/wiki/Cortical_homunculus). This is a representation of the extent to which M1 innervates various body parts."
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Other functions:__   Sensory perception; attention applied to monitoring action; and _procedural memory_ (e.g., learning to ride a bike or play an instrument"			      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Lesions to BA 4 result in paralysis on the opposite, or _contralateral_, side of the body. For example, a lesion on the left M1 leads to paralysis on the right side of the body."
+		      }
+		    }
+		  ]
+		}
+	},
+	{
+		"camera"              : "622933",
+		"name"								: "brodmann 6",
+		"description"					: "",
+		"cameraPos"   : "Frontal", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann6",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 6"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Premotor cortex, aka supplemental motor area (SMA):__ Involved in the control of behaviour/movement- specifically, for the trunk and proximal limb muscles. BA 6 is divided into four sections, including premotor dorsal, rostral (associating arbitrary sensation with specific movements); premotor dorsal, caudal (guiding of reach); premotor ventral, rostral (hand-shaping while grasping; hand-mouth interactions), and premotor ventral, caudal (sensory guidance of movement)."
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Other functions:__\n\n-  Language, such as programming motor movements involved in speaking; in bilingual, switching between languages; perception of speech; processing; and naming objects\n\n-  Memory\n\n-  Coordinating attention between vision and touch/movement"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Lesions to BA 6 impact guided movement of the trunk and proximal limb muscles."
+		      }
+		    }
+
+		  ]
+		}
+	},
+	{
+		"camera"              : "622933",
+		"name"								: "brodmann 8",
+		"description"					: "",
+		"cameraPos"   : "Frontal", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann6",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 8"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Frontal eye fields:__ Involved in planning complex motor movements, including eye-movement. "
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Other functions:__  Managing uncertainty Motor learning and control, language (programming movements involved in speaking), executive function (planning), memory (Working memory, retrieval), and attention (visuospatial and visuomotor"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Lesions here lead to eyes drifting towards the side of the injury, and/or _apraxia_, the inability to execute learned, purposeful movements (http://en.wikipedia.org/wiki/Apraxia). "
+		      }
+		    }
+
+		  ]
+		}
+	},
+	{
+		"camera"              : "622933",
+		"name"								: "brodmann 37",
+		"description"					: "",
+		"cameraPos"   : "Temporal", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann37",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 37"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Fusiform gyrus:__ Though there is not a clear consensus on the functions governed by this area, there is evidence to support its role in processing of colour, recognizing faces and bodies (_fusiform face area_, http://en.wikipedia.org/wiki/Fusiform_face_area), recognizing words (_visual word form area_, http://en.wikipedia.org/wiki/Visual_word_form_area), and identifying objects within categories."
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Abnormalities to BA 37 are associated with impairment of facial recognition (_prosopagnosia_; http://en.wikipedia.org/wiki/Prosopagnosia); interestingly, children with autism do not show activation of BA 37, which may be related to impaired social interactions seen in Autism. \nAbbnormalities to this region are also observed in Williams "
+			      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Lesions here produce a loss of the ability to imitate hand gestures or tool-use (_ideomotor apraxia_, http://en.wikipedia.org/wiki/Ideomotor_apraxia), and/or the inability to identify an object through touch (_astereognosia_, http://en.wikipedia.org/wiki/Astereognosia),"
+		      }
+		    }
+		  ]
+		}
+	},
+	{
+		"camera"              : "622933",
+		"name"								: "brodmann 38",
+		"description"					: "",
+		"cameraPos"   : "Temporal", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann38",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 38"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Temporopolar Area:__ Involved in linking highly-processed perceptual information to emotions."
+		      }
+		    },
+		    {
+		      "type": "list",
+		      "data": {
+		        "text": "__Other functions:__\n\n-  Cognitive, including inferring intention and mental states from other people’s actions\n\n-  Memory retrieval from different or multiple modalities\n\n-Language and auditory functions, such as processing of familiar voices, and aversive sounds.\n\n-  Visual, such as using colour and structure to recognize familiar objects"
+			      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "BA 38 is the area that is first affected by Alzheimer’s disease, as well as in temporal lobe seizures. \nIn addition, lesions here are often impacted during traumatic brain injuries, and result in difficulties separating auditory streams (E.g., Difficulty parsing out a specific talker’s voice from background noise)."
+		      }
+		    }
+		  ]
+		}
+	},
+	{
+		"camera"              : "622933",
+		"name"								: "brodmann 40",
+		"description"					: "",
+		"cameraPos"   : "Parietal", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann40",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 40"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Supramarginal gyrus:__ Involved in the processing and perception of language, particularly in reading."
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Lesions to BA40 may result in difficulties understanding written or spoken language (_fluent aphasia_, http://en.wikipedia.org/wiki/Receptive_aphasia), or deficits in comprehension or naming (_transcortical sensory aphasia_, http://en.wikipedia.org/wiki/Transcortical_sensory_aphasia) "
+			      }
+		    }
+		  ]
+		}
+	},
+	{
+		"camera"              : "622933",
+		"name"								: "brodmann 41",
+		"description"					: "",
+		"cameraPos"   : "Temporal", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann41",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 41"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Primary Auditory Cortex (A1):__ Responsible for all functions related to hearing."
+		      }
+		    },
+		    {
+		      "type": "list",
+		      "data": {
+		        "text": "__Other functions:__\n\n-  Auditory working memory\n\n-  Some visual speech perception"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Lesions to this area lead to deafness/ loss in awareness of sounds. However, reflex-based responses to sound are not impaired, as such sounds are processed elsewhere in the brain, namely the midbrain, and auditory brainstem."
+			      }
+		    }
+		  ]
+		}
+	},
+	{
+		"camera"              : "622933",
+		"name"								: "brodmann 42",
+		"description"					: "",
+		"cameraPos"   : "Temporal", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann42",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 42"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Primary Auditory Cortex (A1):__ Responsible for all functions related to hearing."
+		      }
+		    },
+		    {
+		      "type": "list",
+		      "data": {
+		        "text": "__Other functions:__\n\n-  Auditory working memory\n\n-  Some visual speech perception"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Lesions to this area lead to deafness/ loss in awareness of sounds. However, reflex-based responses to sound are not impaired, as such sounds are processed elsewhere in the brain, namely the midbrain, and auditory brainstem."
+			      }
+		    }
+		  ]
+		}
+	},
+	{
+		"camera"              : "622933",
+		"name"								: "brodmann 43",
+		"description"					: "",
+		"cameraPos"   : "Temporal", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann43",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 43"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Primary Gustatory Cortex:__ Located near the somatosensory cortex, this area is involved in the perception of taste, or _gustation_."
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Taste"
+		      }
+		    }
+		  ]
+		}
+	},
+	{
+		"camera"              : "622933",
+		"name"								: "brodmann 44",
+		"description"					: "",
+		"cameraPos"   : "Frontal", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann44",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 44"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Component of Broca’s Area, also called the Pars Opercularis:__ This area is critical for speech and language production, as well as processing of grammar (_syntax_), meaning (_semantics_), and phonemic information.\nBA 44 and BA 45 comprise Broca’s Area."
+		      }
+		    },
+		    {
+		      "type": "list",
+		      "data": {
+		        "text": "__Other functions:__\n\n-   Memory, including for syntax, autobiographical (_episodic_) memory, and declarative memory – that is, the memory we have for facts (e.g., \"The CN Tower\" is found in Toronto”).\n\n-  Motor, including mirror neurons, speech, and inhibition of motor responses\n\n-Perception of music"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Lesions to this area manifest in the loss of the ability to produce spoken or written language (_non-fluent aphasia_, http://en.wikipedia.org/wiki/Expressive_aphasia)."
+		      }
+		    }
+		  ]
+		}
+	},
+	{
+		"camera"              : "622933",
+		"name"								: "brodmann 52",
+		"description"					: "",
+		"cameraPos"   : "Temporal", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann52",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 52"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Parainsular area:__ This brain region is located in a transitional area between the temporal cortex and another brain region called the _insula_. BA 52 projects multi-modal information to the prefrontal cortex for further processing, and projecting auditory information to the insula."
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Neurofibrillary tangles associated with Alzheimer’s Disease are evident in the perirhinal cortex very early during the disease’s progression*.\n*Augustinack, Huber, Stevens, Roy, Frosch, et al. (2013)."
+			  }
+		    }
+		  ]
+		}
+	}
+]},
+{
+  "slug"        : "SpSenseAndNavigation",
+  "name"        : "Spatial Sense and Navigation",
+  "owner"       : "verold",
+  "screenshot"  : "",
+  "description" : "Orientation-related functions",
+  "timestamp"   : "",
+  "featured"    : true,
+  "icon"		: "/app/img/icon-spatial.svg",
+
+  "slides"      : [
+  	{
+		"camera"              : "622933",
+		"name"								: "Spatial Sense and Navigation",
+		"description"					: "Orientation-related functions",
+		"cameraPos"   : "Parietal", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann7",
+			"color": "#FA2B31"
+		},
+		{
+			"regionName": "brodmann37",
+			"color": "#FA2B31"
+		},
+		{
+			"regionName": "brodmann38",
+			"color": "#FA2B31"
+		},
+		{
+			"regionName": "brodmann39",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "Spatial Sense and Navigation"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "In cognitive psychology and neuroscience, spatial memory is the part of memory responsible for recording information about one's environment and its spatial orientation. For example, a person's spatial memory is required in order to navigate around a familiar city, just as a rat's spatial memory is needed to learn the location of food at the end of a maze. It is often argued that in both humans and animals, spatial memories are summarized as a cognitive map. Spatial memory has representations within working, short-term and long-term memory. Research indicates that there are specific areas of the brain associated with spatial memory. Many methods are used for measuring spatial memory in children, adults, and animals."
+		      }
+		    }
+		 ]
+		}
+	},
+    {
+		"camera"              : "622933",
+		"name"								: "brodmann 7",
+		"description"					: "",
+		"cameraPos"   : "Parietal", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann7",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 7"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Somatosensory association cortex:__ Involved in the location of objects in space, and visuospatial perception to determine the location of objects in relation to the body. *Visuospatial perception is the combination of vision and the sense of relative position of the body in space (_proprioception_) to determine the location of an object."
+		      }
+		    },
+		    {
+		      "type": "list",
+		      "data": {
+		        "text": "__Other functions:__\n\n-  Motor, including imagining motor movements, and executing motor movements\n\n-  Memory, including working memory; visuospatial memory\n\n-  Visuomotor attention\n\n-  Language processing"
+			      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Lesions here produce a loss of the ability to imitate hand gestures or tool-use (_ideomotor apraxia_, http://en.wikipedia.org/wiki/Ideomotor_apraxia), and/or the inability to identify an object through touch (_astereognosia_, http://en.wikipedia.org/wiki/Astereognosia),"
+		      }
+		    }
+		  ]
+		}
+	},
+	{
+		"camera"              : "622933",
+		"name"								: "brodmann 37",
+		"description"					: "",
+		"cameraPos"   : "Temporal", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann37",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 37"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Fusiform gyrus:__ Though there is not a clear consensus on the functions governed by this area, there is evidence to support its role in processing of colour, recognizing faces and bodies (_fusiform face area_, http://en.wikipedia.org/wiki/Fusiform_face_area), recognizing words (_visual word form area_, http://en.wikipedia.org/wiki/Visual_word_form_area), and identifying objects within categories."
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Abnormalities to BA 37 are associated with impairment of facial recognition (_prosopagnosia_; http://en.wikipedia.org/wiki/Prosopagnosia); interestingly, children with autism do not show activation of BA 37, which may be related to impaired social interactions seen in Autism. \nAbbnormalities to this region are also observed in Williams "
+			      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Lesions here produce a loss of the ability to imitate hand gestures or tool-use (_ideomotor apraxia_, http://en.wikipedia.org/wiki/Ideomotor_apraxia), and/or the inability to identify an object through touch (_astereognosia_, http://en.wikipedia.org/wiki/Astereognosia),"
+		      }
+		    }
+		  ]
+		}
+	},
+	{
+		"camera"              : "622933",
+		"name"								: "brodmann 38",
+		"description"					: "",
+		"cameraPos"   : "Temporal", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann38",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 38"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Temporopolar Area:__ Involved in linking highly-processed perceptual information to emotions."
+		      }
+		    },
+		    {
+		      "type": "list",
+		      "data": {
+		        "text": "__Other functions:__\n\n-  Cognitive, including inferring intention and mental states from other people’s actions\n\n-  Memory retrieval from different or multiple modalities\n\n-Language and auditory functions, such as processing of familiar voices, and aversive sounds.\n\n-  Visual, such as using colour and structure to recognize familiar objects"
+			      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "BA 38 is the area that is first affected by Alzheimer’s disease, as well as in temporal lobe seizures. \nIn addition, lesions here are often impacted during traumatic brain injuries, and result in difficulties separating auditory streams (E.g., Difficulty parsing out a specific talker’s voice from background noise)."
+		      }
+		    }
+		  ]
+		}
+	},
+	{
+		"camera"              : "622933",
+		"name"								: "brodmann 39",
+		"description"					: "",
+		"cameraPos"   : "Temporal", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann39",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 39"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Angular gyrus:__ Involved cognitive functions including language, mathematics, memory, attention, spatial cognition, and attributing mental states to others (_Theory of mind_, http://en.wikipedia.org/wiki/Theory_of_mind)."
+		      }
+		    },
+		    {
+		      "type": "list",
+		      "data": {
+		        "text": "__Other functions:__\n\n-  Self-awareness\n\n-  Out-of-body experiences\n\n-  Sight reading music"
+			      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Lesions to BA 39 contribute to semantic aphasia, where patients cease to recognize the meaning of words and phrases.\nIn lesions on the left side of BA39, deficits in arithmetic (acalculia, http://en.wikipedia.org/wiki/Acalculia), writing (agraphia, http://en.wikipedia.org/wiki/Agraphia), and difficulties dissociating between fingers emerge.\nIn lesions on the right side of BA39, deficits in visuospatial processing (e.g., “hemi-spatial neglect”)."
+		      }
+		    }
+		  ]
+		}
+	}
+  ]
+},
+{
+  "slug"        : "ExeFunc",
+  "name"        : "Executive Function",
+  "owner"       : "verold",
+  "screenshot"  : "",
+  "description" : "",
+  "timestamp"   : "",
+  "featured"    : true,
+  "icon"		: "/app/img/icon-executive.svg",
+
+  "slides"      : [
+  {
+		"camera"              : "622933",
+		"name"								: "Executive Functione",
+		"description"					: "",
+		"cameraPos"   : "Frontal", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann9",
+			"color": "#FA2B31"
+		},
+		{
+			"regionName": "brodmann10",
+			"color": "#FA2B31"
+		},
+		{
+			"regionName": "brodmann11",
+			"color": "#FA2B31"
+		},
+		{
+			"regionName": "brodmann24",
+			"color": "#FA2B31"
+		},
+		{
+			"regionName": "brodmann25",
+			"color": "#FA2B31"
+		},
+		{
+			"regionName": "brodmann32",
+			"color": "#FA2B31"
+		},
+		{
+			"regionName": "brodmann33",
+			"color": "#FA2B31"
+		},
+		{
+			"regionName": "brodmann45",
+			"color": "#FA2B31"
+		},
+		{
+			"regionName": "brodmann46",
+			"color": "#FA2B31"
+		},
+		{
+			"regionName": "brodmann47",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "Executive Function"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Historically, the executive functions have been seen as regulated by the prefrontal regions of the frontal lobes, but it is still a matter of ongoing debate if that really is the case.[4] Even though articles on prefrontal lobe lesions commonly refer to disturbances of executive functions and vice versa, a review found indications for the sensitivity but not for the specificity of executive function measures to frontal lobe functioning. This means that both frontal and non-frontal brain regions are necessary for intact executive functions. Probably the frontal lobes need to participate in basically all of the executive functions, but it is not the only brain structure involved.[4]"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Neuroimaging and lesion studies have identified the functions which are most often associated with the particular regions of the prefrontal cortex."
+			  }
+		    },
+		    {
+		      "type": "list",
+		      "data": {
+		        "text": "-  The dorsolateral prefrontal cortex (DLPFC) is involved with \"on-line\" processing of information such as integrating different dimensions of cognition and behaviour.[5] As such, this area has been found to be associated with verbal and design fluency, ability to maintain and shift set, planning, response inhibition, working memory, organisational skills, reasoning, problem solving and abstract thinking.\n\n-  The anterior cingulate cortex (ACC) is involved in emotional drives, experience and integration.[5] Associated cognitive functions include inhibition of inappropriate responses, decision making and motivated behaviours. Lesions in this area can lead to low drive states such as apathy, abulia or akinetic mutism and may also result in low drive states for such basic needs as food or drink and possibly decreased interest in social or vocational activities and sex.\n\n- The orbitofrontal cortex (OFC) plays a key role in impulse control, maintenance of set, monitoring ongoing behaviour and socially appropriate behaviours.[5] The orbitofrontal cortex also has roles in representing the value of rewards based on sensory stimuli and evaluating subjective emotional experiences.[8] Lesions can cause disinhibition, impulsivity, aggressive outbursts, sexual promiscuity and antisocial behaviour."
+			  }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Furthermore, in their review, Alvarez and Emory state that: \"The frontal lobes have multiple connections to cortical, subcortical and brain stem sites. The basis of \"higher-level\" cognitive functions such as inhibition, flexibility of thinking, problem solving, planning, impulse control, concept formation, abstract thinking, and creativity often arise from much simpler, \"lower-level\" forms of cognition and behavior. Thus, the concept of executive function must be broad enough to include anatomical structures that represent a diverse and diffuse portion of the central nervous system.\""
+			  }
+		    }
+		  ]
+		}
+	},
+    {
+		"camera"              : "622933",
+		"name"								: "brodmann 9",
+		"description"					: "",
+		"cameraPos"   : "Frontal", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann9",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 9"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Dorsolateral prefrontal cortex (made up of both BA 9 and BA 46):__ Involved in the executive control of behaviour. This control includes planning, organization, regulation, and memory."
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Lesions to BA9 can manifest as issues with cognition, behaviour, and emotional regulation, called _dysexecutive syndrome_  (http://en.wikipedia.org/wiki/Dysexecutive_syndrome). Issues including judging emotions in others, judging social contexts, memory problems, difficulties with abstract thought, and so on."
+			      }
+		    }
+		  ]
+		}
+	},
+	{
+		"camera"              : "622933",
+		"name"								: "brodmann 10",
+		"description"					: "",
+		"cameraPos"   : "Frontal", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann10",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 10"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Anterior prefrontal cortex:__ Executive functions, including strategies in memory recall. "
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Some have proposed that BA 10 is involved in _cognitive branching_, which enables the simultaneous running of multiple tasks in the brain *Koechlin, & Hyafil (2007)."
+			  }
+		    },
+		    {
+		    	"type":"text",
+		    	"data":{
+		    		"text":"Similar to lesions to BA9, lesions to BA10 present as issues with cognition, behaviour, and emotional regulation, called _dysexecutive syndrome_ (http://en.wikipedia.org/wiki/Dysexecutive_syndrome). Issues include impairment in judging emotions in others, judging social contexts, memory problems, and difficulties with abstract thought"
+		    	}
+		    }
+		  ]
+		}
+	},
+	{
+		"camera"              : "622933",
+		"name"								: "brodmann 11",
+		"description"					: "",
+		"cameraPos"   : "Frontal", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann11",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 11"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Orbitofrontal area:__  Planning, reasoning, inhibition and emotional regulation, and decision-making with associated rewards."
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Lesions to BA 11 can manifest in changes to personality and disinhibition, such as excessive swearing, impoverished social interactions, hypersexuality, risk-taking (gambling, drug use etc), and lack of empathy."
+			  }
+		    }
+		  ]
+		}
+	},
+	{
+		"camera"              : "622933",
+		"name"								: "brodmann 24",
+		"description"					: "",
+		"cameraPos"   : "Limbic", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann24",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 24"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Ventral anterior cingulate cortex:  Involved in the regulation of: 1) Autonomic functions including heart rate and blood pressure, and 2) Rational cognition, including emotion*, anticipation of rewards, decision-making, empathy, emotional regulation, and impulse-control**.\n*Decety, & Jackson (2004); Jackson, Brunet, Meltzoff, & Decety (2006)\n**Hewitt, 2013"
+		        }		      
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Damage to BA24 has been implicated in a wide range of behaviours including emotional instability, difficulty detecting errors, attentional deficits, and _akinetic amutism_ (http://en.wikipedia.org/wiki/Akinetic_mutism). These deficits are related to number of disorders, ranging from schizophrenia to obsessive compulsive disorder. A comprehensive summary of anterior cingulate cortex pathology can be found here: http://en.wikipedia.org/wiki/Anterior_cingulate_cortex#Pathology "
+			  }
+		    }
+		  ]
+		}
+	},
+	{
+		"camera"              : "622933",
+		"name"								: "brodmann 25",
+		"description"					: "",
+		"cameraPos"   : "Limbic", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann25",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 25"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Subgenual area, part of Ventromedial prefrontal cortex:__ Involved in governing the brain network between different limbic structures and the brainstem."
+		        }		      
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "This brain region also plays a prominent role in the transportation of _serotonin_ (http://en.wikipedia.org/wiki/Serotonin), a neurotransmitter associated with feelings of well-being and happiness. Drugs that increase serotonin levels (SSRIs, http://en.wikipedia.org/wiki/Selective_serotonin_reuptake_inhibitor) in the brain are used in the treatment of depression – a relevant link, as irregularities with BA 25 have been associated with depression (http://en.wikipedia.org/wiki/Anterior_cingulate_cortex#Pathology)."
+			  },
+
+		      "type": "text",
+		      "data": {
+		        "text": "BA 25 has been closely linked with depression, and has been targeted as a site for _deep brain stimulation_ as a potential treatment for depression (http://en.wikipedia.org/wiki/Deep_brain_stimulation).  "
+			  }
+		    }
+		  ]
+		}
+	},
+	{
+		"camera"              : "622933",
+		"name"								: "brodmann 32",
+		"description"					: "",
+		"cameraPos"   : "Frontal", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann32",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 32"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Dorsal anterior cingulate cortex:__ Involved in rational thought, and attention, as demonstrated by activation during the _Stroop task_ (http://en.wikipedia.org/wiki/Stroop_effect). "
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Lesions in this area of the brain are associated with difficulties in multitasking."
+			  }
+		    }
+		  ]
+		}
+	},
+	{
+		"camera"              : "622933",
+		"name"								: "brodmann 33",
+		"description"					: "",
+		"cameraPos"   : "Frontal", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann33",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 33"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Component of anterior cingulate cortex: This is a small portion of the anterior cingulate cortex (ACC). The ACC is involved in the regulation of: 1) Autonomic functions including heart rate and blood pressure, and 2) Rational cognition, including emotion*, anticipation of rewards, decision-making, empathy, emotional regulation, and impulse-control**.\n*Decety, & Jackson (2004); Jackson, Brunet, Meltzoff, & Decety (2006)\n**Hewitt, 2013"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Damage to BA 24 has been implicated in a wide range of behaviours including emotional instability, difficulty detecting errors, attentional, and _akinetic amutism_ (http://en.wikipedia.org/wiki/Akinetic_mutism). These deficits have been implicated in a number of disorders, ranging from schizophrenia to obsessive compulsive disorder. A comprehensive summary of anterior cingulate cortex pathology can be found here: http://en.wikipedia.org/wiki/Anterior_cingulate_cortex#Pathology"
+			  }
+		    }
+		  ]
+		}
+	},
+	{
+		"camera"              : "622933",
+		"name"								: "brodmann 45",
+		"description"					: "",
+		"cameraPos"   : "Frontal", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann45",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 45"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Component of Broca’s Area, also called the Pars Opercularis:__ Involved in processing meaning (_semantics_) in language, particularly in determining if a word represents something abstract or concrete, and generating language. "
+		      }
+		    },
+		    {
+		      "type": "list",
+		      "data": {
+		        "text": "__Oher functions:__\n\n-  May be involved in memory processes, like retrieving semantic information from memory\n\n- Motor, including mirror neurons for grasping, speech, and inhibition of motor responses\n\n-  Enjoyment of music\n\n-  For some: Any tasks that involves choosing a relevant representation of something amongst competing representations"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Lesions to this area manifest in the loss of the ability to produce spoken or written language (_non-fluent aphasia_, http://en.wikipedia.org/wiki/Expressive_aphasia) "
+		      }
+		    }
+		  ]
+		}
+	},
+	{
+		"camera"              : "622933",
+		"name"								: "brodmann 46",
+		"description"					: "",
+		"cameraPos"   : "Frontal", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann46",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 46"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Dorsolateral prefrontal cortex:__ This area is involved in executive functions, including sustained attention; memory (encoding, recognition, and working memory); language (processing meaning in language), and motor control."
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Other functions: Decision making, enjoyment of music, mental calculation."
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Lesions to BA 46 can manifest as issues with cognition, behaviour, and emotional regulation, called _dysexecutive syndrome_  (http://en.wikipedia.org/wiki/Dysexecutive_syndrome). Issues including judging emotions in others, judging social contexts, memory problems, difficulties with abstract thought, and so on"
+		      }
+		    }
+		  ]
+		}
+	},
+	{
+		"camera"              : "622933",
+		"name"								: "brodmann 47",
+		"description"					: "",
+		"cameraPos"   : "Frontal", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann47",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 47"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Inferior prefrontal gyrus:__ Involved in the processing of grammar, or _syntax_, in language and music."
+		      }
+		    }
+		  ]
+		}
+	}
+  ]
+},
+{
+  "slug"        : "Limbic",
+  "name"        : "Limbic",
+  "owner"       : "verold",
+  "screenshot"  : "",
+  "description" : "Emotion, behavior, motivation",
+  "timestamp"   : "",
+  "featured"    : true,
+  "icon"		: "/app/img/icon-limbic.svg",
+
+  "slides"      : [
+  {
+		"camera"              : "622933",
+		"name"								: "Limbic",
+		"description"					: "Emotion, behavior, motivation",
+		"cameraPos"   : "Frontal", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann11",
+			"color": "#FA2B31"
+		},
+		{
+			"regionName": "brodmann23",
+			"color": "#FA2B31"
+		},
+		{
+			"regionName": "brodmann24",
+			"color": "#FA2B31"
+		},
+		{
+			"regionName": "brodmann25",
+			"color": "#FA2B31"
+		},
+		{
+			"regionName": "brodmann26",
+			"color": "#FA2B31"
+		},
+		{
+			"regionName": "brodmann27",
+			"color": "#FA2B31"
+		},
+		{
+			"regionName": "brodmann28",
+			"color": "#FA2B31"
+		},
+		{
+			"regionName": "brodmann29",
+			"color": "#FA2B31"
+		},
+		{
+			"regionName": "brodmann30",
+			"color": "#FA2B31"
+		},
+		{
+			"regionName": "brodmann31",
+			"color": "#FA2B31"
+		},
+		{
+			"regionName": "brodmann32",
+			"color": "#FA2B31"
+		},
+		{
+			"regionName": "brodmann33",
+			"color": "#FA2B31"
+		},
+		{
+			"regionName": "brodmann34",
+			"color": "#FA2B31"
+		},
+		{
+			"regionName": "brodmann35",
+			"color": "#FA2B31"
+		},
+		{
+			"regionName": "brodmann36",
+			"color": "#FA2B31"
+		},
+		{
+			"regionName": "brodmann52",
+			"color": "#FA2B31"
+		}
+		],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "Limbic"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "The limbic system is the set of brain structures that forms the inner border of the cortex. The components of the limbic system located in the cerebral cortex generally have fewer layers than the classical 6-layered neocortex, and are usually classified as allocortex or archicortex."
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "The limbic system includes many structures in the cerebral pre-cortex and sub-cortex of the brain. The term has been used within psychiatry and neurology, although its exact role and definition have been revised considerably since the term was introduced. The following structures are, or have been considered to be, part of the limbic system:"
+			  }
+		    },
+		    {
+		      "type": "list",
+		      "data": {
+		        "text": "-  Hippocampus and associated structures:\n\n -  Hippocampus: Required for the formation of long-term memories and implicated in maintenance of cognitive maps for navigation. The hippocampus consists of two â€œhornsâ€ that curve back from the amygdalae. It appears to be very important in converting things that are â€œon one's mindâ€ at the moment (in short-term memory) into things that one will remember for the long run (long-term memory). If the hippocampus is damaged, a person cannot build new memories and lives instead in a strange world where everything he or she experiences just fades away, even while older memories from the time before the damage are untouched (a condition depicted in the films Memento and 50 First Dates).\n\n -  Amygdala: Involved in signaling the cortex of motivationally significant stimuli such as those related to reward and fear in addition to social functions such as mating. Furthermore, the anatomy of amygdalae are two almond-shaped masses of neurons on either side of the thalamus at the lower end of the hippocampus. The amygdalae stimulate the hippocampus to remember many details surrounding the situation, as well.[1]\n\n -  Fornix: is a C-shape bundle of axon that carries signals from the hippocampus to the mammillary bodies and septal nuclei.\n\n -  Mammillary body: locates at the ends of the anterior arches of the fornix. It is involved with the process of recognition memory.\n\n - Septal nuclei: Located anterior to the interventricular septum, the septal nuclei provide critical interconnections. The septal area isn't related to the sense of smell, but is the pleasure zone in animals.\n\n-  Limbic lobe\n\n -  Parahippocampal gyrus: Plays a role in the formation of spatial memory.\n\n -  Cingulate gyrus: Autonomic functions regulating heart rate, blood pressure and cognitive and attentional processing.\n\n -  Dentate gyrus: thought to contribute to new memories."
+		    
+			  }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "In addition, these structures are sometimes also considered to be part of the limbic system:"
+			  }
+		    },
+		    {
+		      "type": "list",
+		      "data": {
+		        "text": "-  Entorhinal cortex: Important memory and associative components.\n\n- Piriform cortex: The function of which relates to the olfactory system.\n\n-  Fornicate gyrus: Region encompassing the cingulate, hippocampus, and parahippocampal gyrus.\n\n-  Nucleus accumbens: Involved in reward, pleasure, and addiction.\n\n-  Orbitofrontal cortex: Required for decision making."
+			  }
+		    }
+		  ]
+		}
+	},
+    {
+		"camera"              : "622933",
+		"name"								: "brodmann 11",
+		"description"					: "",
+		"cameraPos"   : "Frontal", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann11",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 11"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Orbitofrontal area:__  Planning, reasoning, inhibition and emotional regulation, and decision-making with associated rewards."
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Lesions to BA 11 can manifest in changes to personality and disinhibition, such as excessive swearing, impoverished social interactions, hypersexuality, risk-taking (gambling, drug use etc), and lack of empathy."
+			  }
+		    }
+		  ]
+		}
+	},
+	{
+		"camera"              : "622933",
+		"name"								: "brodmann 23",
+		"description"					: "",
+		"cameraPos"   : "Limbic", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann23",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 23"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Ventral posterior cingulate cortex:__ Involved in self-referential thought as part of the default mode network (http://en.wikipedia.org/wiki/Default_mode_network); the link between pain perception and retrieval of autobiographical (episodic) memories*, and working memory.\nGiven these functions, it is interesting to note that less activation BA 23 is seen in experienced meditators**\n.** Nielsen, Balslev, Hansen (2005)*Brewer, Worhunsky, Gray, Tang, Weber et al. (2011)"
+		        }		      
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Increased size of the posterior cingulate cortex (of which BA 23 is a part) is related to decline in working memory performance* *Kozlovskiy, Vartanov, Nikonova, Pyasik, & Vclichkovsky (2012)"
+			  }
+		    }
+		  ]
+		}
+	},
+	{
+		"camera"              : "622933",
+		"name"								: "brodmann 24",
+		"description"					: "",
+		"cameraPos"   : "Limbic", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann24",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 24"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Ventral anterior cingulate cortex:  Involved in the regulation of: 1) Autonomic functions including heart rate and blood pressure, and 2) Rational cognition, including emotion*, anticipation of rewards, decision-making, empathy, emotional regulation, and impulse-control**.\n*Decety, & Jackson (2004); Jackson, Brunet, Meltzoff, & Decety (2006)\n**Hewitt, 2013"
+		        }		      
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Damage to BA24 has been implicated in a wide range of behaviours including emotional instability, difficulty detecting errors, attentional deficits, and _akinetic amutism_ (http://en.wikipedia.org/wiki/Akinetic_mutism). These deficits are related to number of disorders, ranging from schizophrenia to obsessive compulsive disorder. A comprehensive summary of anterior cingulate cortex pathology can be found here: http://en.wikipedia.org/wiki/Anterior_cingulate_cortex#Pathology "
+			  }
+		    }
+		  ]
+		}
+	},
+	{
+		"camera"              : "622933",
+		"name"								: "brodmann 25",
+		"description"					: "",
+		"cameraPos"   : "Limbic", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann25",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 25"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Subgenual area, part of Ventromedial prefrontal cortex:__ Involved in governing the brain network between different limbic structures and the brainstem."
+		        }		      
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "This brain region also plays a prominent role in the transportation of _serotonin_ (http://en.wikipedia.org/wiki/Serotonin), a neurotransmitter associated with feelings of well-being and happiness. Drugs that increase serotonin levels (SSRIs, http://en.wikipedia.org/wiki/Selective_serotonin_reuptake_inhibitor) in the brain are used in the treatment of depression – a relevant link, as irregularities with BA 25 have been associated with depression (http://en.wikipedia.org/wiki/Anterior_cingulate_cortex#Pathology)."
+			  },
+
+		      "type": "text",
+		      "data": {
+		        "text": "BA 25 has been closely linked with depression, and has been targeted as a site for _deep brain stimulation_ as a potential treatment for depression (http://en.wikipedia.org/wiki/Deep_brain_stimulation).  "
+			  }
+		    }
+		  ]
+		}
+	},
+	{
+		"camera"              : "622933",
+		"name"								: "brodmann 26",
+		"description"					: "",
+		"cameraPos"   : "Limbic", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann26",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 26"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Ectosplenial portion of retrosplenial region of cerebral cortex:__  This small brain area is a part of the _retrosplential region_, which has been implicated in recall of autobiographical (_episodic_) information. The other parts of the retrosplenial region include BA 29 and BA 30."
+		        }		      
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "When this area is damaged along with other regions, _anterograde amnesia_ can result (http://en.wikipedia.org/wiki/Anterograde_amnesia)."
+			  }
+		    }
+		  ]
+		}
+	},
+	{
+		"camera"              : "622933",
+		"name"								: "brodmann 28",
+		"description"					: "",
+		"cameraPos"   : "Limbic", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann28",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 28"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Ventral entorhinal cortex:__ As part of a network with the _hippocampus_ (http://en.wikipedia.org/wiki/Hippocampus), this area is involved in memory – particularly autobiographical (episodic) memories; memory consolidation, and conditioning. "
+		        }		      
+		    }
+		  ]
+		}
+	},
+	{
+		"camera"              : "622933",
+		"name"								: "brodmann 29",
+		"description"					: "",
+		"cameraPos"   : "Limbic", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann29",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 29"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Retrosplenial cingulate cortex:__  This brain area is a part of the retrosplential region, which has been implicated in recall of autobiographical (episodic) information. The other parts of the retrosplenial region include BA 26 and BA 30."
+		        }		      
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "When this area is damaged along with other regions, _anterograde amnesia_ can result (http://en.wikipedia.org/wiki/Anterograde_amnesia)."
+		        }		      
+		    }
+		  ]
+		}
+	},
+	{
+		"camera"              : "622933",
+		"name"								: "brodmann 30",
+		"description"					: "",
+		"cameraPos"   : "Limbic", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann30",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 30"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Component of cingulate cortex:__  This small brain area is a part of the _retrosplential region_, which has been implicated in recall of autobiographical (_episodic_) information. The other parts of the retrosplenial region include BA 26 and BA 29."
+		        }		      
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "When this area is damaged along with other regions, _anterograde amnesia_ can result (http://en.wikipedia.org/wiki/Anterograde_amnesia)."
+		        }		      
+		    }
+		  ]
+		}
+	},
+	{
+		"camera"              : "622933",
+		"name"								: "brodmann 31",
+		"description"					: "",
+		"cameraPos"   : "Limbic", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann31",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 31"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Dorsal posterior cingulate cortex:__ Involved in self-referential thought as part of the _default mode_ network (http://en.wikipedia.org/wiki/Default_mode_network), the link between pain perception and retrieval of autobiographical (_episodic_) memories (Nielsen, Balslev, Hansen, 2005); and working memory.\nGiven these functions, it is interesting to note that less activation of this area is seen in experienced meditation*.\n*Brewer, Worhunsky, Gray, Tang, Weber et al. (2011)."
+		        }		      
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Increased size of the posterior cingulate cortex (of which BA 23 is a part) is related to decline in working memory performance* \n*Kozlovskiy, Vartanov, Nikonova, Pyasik, & Vclichkovsky (2012)"
+		        }		      
+		    }
+		  ]
+		}
+	},
+	 {
+		"camera"              : "622933",
+		"name"								: "brodmann 32",
+		"description"					: "",
+		"cameraPos"   : "Frontal", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann32",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 32"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Dorsal anterior cingulate cortex:__ Involved in rational thought, and attention, as demonstrated by activation during the _Stroop task_ (http://en.wikipedia.org/wiki/Stroop_effect). "
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Lesions in this area of the brain are associated with difficulties in multitasking."
+			  }
+		    }
+		  ]
+		}
+	},
+	{
+		"camera"              : "622933",
+		"name"								: "brodmann 33",
+		"description"					: "",
+		"cameraPos"   : "Frontal", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann33",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 33"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Component of anterior cingulate cortex: This is a small portion of the anterior cingulate cortex (ACC). The ACC is involved in the regulation of: 1) Autonomic functions including heart rate and blood pressure, and 2) Rational cognition, including emotion*, anticipation of rewards, decision-making, empathy, emotional regulation, and impulse-control**.\n*Decety, & Jackson (2004); Jackson, Brunet, Meltzoff, & Decety (2006)\n**Hewitt, 2013"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Damage to BA 24 has been implicated in a wide range of behaviours including emotional instability, difficulty detecting errors, attentional, and _akinetic amutism_ (http://en.wikipedia.org/wiki/Akinetic_mutism). These deficits have been implicated in a number of disorders, ranging from schizophrenia to obsessive compulsive disorder. A comprehensive summary of anterior cingulate cortex pathology can be found here: http://en.wikipedia.org/wiki/Anterior_cingulate_cortex#Pathology"
+			  }
+		    }
+		  ]
+		}
+	},
+	{
+		"camera"              : "622933",
+		"name"								: "brodmann 34",
+		"description"					: "",
+		"cameraPos"   : "Limbic", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann34",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 34"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Dorsal entorhinal cortex, on the Parahippocampal gyrus:__ This area is involved in memory, both with encoding and retrieval of memories, as well as identifying social context, and recognition of scenes."
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Damage to BA 24 has been implicated in a wide range of behaviours including emotional instability, difficulty detecting errors, attentional, and _akinetic amutism_ (http://en.wikipedia.org/wiki/Akinetic_mutism). These deficits have been implicated in a number of disorders, ranging from schizophrenia to obsessive compulsive disorder. A comprehensive summary of anterior cingulate cortex pathology can be found here: http://en.wikipedia.org/wiki/Anterior_cingulate_cortex#Pathology"
+			  }
+		    }
+		  ]
+		}
+	},
+	{
+		"camera"              : "622933",
+		"name"								: "brodmann 35",
+		"description"					: "",
+		"cameraPos"   : "Limbic", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann35",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 35"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Perirhinal cortex, in the rhinal sulcus:__ BA 35, in addition to BA 36, comprises the perirhinal cortex. The perirhinal cortex is involved in memory, and detecting novel objects.\nIn addition, BA 35 is a multimodal area, receiving highly-processed sensory information from all sensory modalities."
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Neurofibrillary tangles associated with Alzheimer’s Disease are evident in the perirhinal cortex very early during the disease’s progression*.\n*Augustinack, Huber, Stevens, Roy, Frosch, et al. (2013)."
+			  }
+		    }
+		  ]
+		}
+	},
+	{
+		"camera"              : "622933",
+		"name"								: "brodmann 36",
+		"description"					: "",
+		"cameraPos"   : "Limbic", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann36",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 36"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Component of perirhinal cortex, in rhinal sulcus:__ BA 36, in addition to BA 35, comprises the _perirhinal cortex_. The perirhinal cortex is involved in memory, and detecting novel objects.\nIn addition, BA 35 is a multimodal area, receiving highly-processed sensory information from all sensory modalities."
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Neurofibrillary tangles associated with Alzheimer’s Disease are evident in the perirhinal cortex very early during the disease’s progression*.\n*Augustinack, Huber, Stevens, Roy, Frosch, et al. (2013)."
+			  }
+		    }
+		  ]
+		}
+	},
+	{
+		"camera"              : "622933",
+		"name"								: "brodmann 52",
+		"description"					: "",
+		"cameraPos"   : "Temporal", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann52",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 52"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Parainsular area:__ This brain region is located in a transitional area between the temporal cortex and another brain region called the _insula_. BA 52 projects multi-modal information to the prefrontal cortex for further processing, and projecting auditory information to the insula."
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Neurofibrillary tangles associated with Alzheimer’s Disease are evident in the perirhinal cortex very early during the disease’s progression*.\n*Augustinack, Huber, Stevens, Roy, Frosch, et al. (2013)."
+			  }
+		    }
+		  ]
+		}
+	}]
+},
+{
+  "slug"        : "Memory",
+  "name"        : "Memory",
+  "owner"       : "verold",
+  "screenshot"  : "",
+  "description" : "Get, fetch, and process memory",
+  "timestamp"   : "",
+  "featured"    : true,
+  "icon"		: "/app/img/icon-memory.svg",
+  "slides"      : [
+    {
+		"camera"              : "622933",
+		"name"								: "Memory",
+		"description"					: "Get, fetch, and process memory",
+		"cameraPos"   : "Temporal", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann20",
+			"color": "#FA2B31"
+		},
+		{
+			"regionName": "brodmann23",
+			"color": "#FA2B31"
+		},
+		{
+			"regionName": "brodmann26",
+			"color": "#FA2B31"
+		},
+		{
+			"regionName": "brodmann28",
+			"color": "#FA2B31"
+		},
+		{
+			"regionName": "brodmann29",
+			"color": "#FA2B31"
+		},
+		{
+			"regionName": "brodmann30",
+			"color": "#FA2B31"
+		},
+		{
+			"regionName": "brodmann31",
+			"color": "#FA2B31"
+		},
+		{
+			"regionName": "brodmann34",
+			"color": "#FA2B31"
+		},
+		{
+			"regionName": "brodmann35",
+			"color": "#FA2B31"
+		},
+		{
+			"regionName": "brodmann36",
+			"color": "#FA2B31"
+		}
+		],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "Memory"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "In psychology, memory is the process in which information is encoded, stored, and retrieved. Encoding allows information that is from the outside world to reach our senses in the forms of chemical and physical stimuli. In this first stage we must change the information so that we may put the memory into the encoding process. Storage is the second memory stage or process. This entails that we maintain information over periods of time. Finally the third process is the retrieval of information that we have stored. We must locate it and return it to our consciousness. Some retrieval attempts may be effortless due to the type of information."
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "From an information processing perspective there are three main stages in the formation and retrieval of memory:"
+			  }
+		    },
+		    {
+		      "type": "list",
+		      "data": {
+		        "text": "-  Encoding or registration: receiving, processing and combining of received information\n\n-  Storage: creation of a permanent record of the encoded information\n\n-  Retrieval, recall or recollection: calling back the stored information in response to some cue for use in a process or activity"
+			  }
+		    }
+		  ]
+		}
+	},
+    {
+		"camera"              : "622933",
+		"name"								: "brodmann 20",
+		"description"					: "",
+		"cameraPos"   : "Temporal", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann20",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 20"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Inferior temporal gyrus:__ Involved memory/recognition and high-level visual processing. Some have argued that this region should also be considered part of Wernicke’s Area (BA 22), which is involved in processing of semantic meaning."
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Lesions to BA 11 can manifest in changes to personality and disinhibition, such as excessive swearing, impoverished social interactions, hypersexuality, risk-taking (gambling, drug use etc), and lack of empathy."
+			  }
+		    }
+		  ]
+		}
+	},
+	{
+		"camera"              : "622933",
+		"name"								: "brodmann 23",
+		"description"					: "",
+		"cameraPos"   : "Limbic", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann23",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 23"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Ventral posterior cingulate cortex:__ Involved in self-referential thought as part of the default mode network (http://en.wikipedia.org/wiki/Default_mode_network); the link between pain perception and retrieval of autobiographical (episodic) memories*, and working memory.\nGiven these functions, it is interesting to note that less activation BA 23 is seen in experienced meditators**\n.** Nielsen, Balslev, Hansen (2005)*Brewer, Worhunsky, Gray, Tang, Weber et al. (2011)"
+		        }		      
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Increased size of the posterior cingulate cortex (of which BA 23 is a part) is related to decline in working memory performance* *Kozlovskiy, Vartanov, Nikonova, Pyasik, & Vclichkovsky (2012)"
+			  }
+		    }
+		  ]
+		}
+	},
+	{
+		"camera"              : "622933",
+		"name"								: "brodmann 26",
+		"description"					: "",
+		"cameraPos"   : "Limbic", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann26",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 26"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Ectosplenial portion of retrosplenial region of cerebral cortex:__  This small brain area is a part of the _retrosplential region_, which has been implicated in recall of autobiographical (_episodic_) information. The other parts of the retrosplenial region include BA 29 and BA 30."
+		        }		      
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "When this area is damaged along with other regions, _anterograde amnesia_ can result (http://en.wikipedia.org/wiki/Anterograde_amnesia)."
+			  }
+		    }
+		  ]
+		}
+	},
+	{
+		"camera"              : "622933",
+		"name"								: "brodmann 28",
+		"description"					: "",
+		"cameraPos"   : "Limbic", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann28",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 28"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Ventral entorhinal cortex:__ As part of a network with the _hippocampus_ (http://en.wikipedia.org/wiki/Hippocampus), this area is involved in memory – particularly autobiographical (episodic) memories; memory consolidation, and conditioning. "
+		        }		      
+		    }
+		  ]
+		}
+	},
+	{
+		"camera"              : "622933",
+		"name"								: "brodmann 29",
+		"description"					: "",
+		"cameraPos"   : "Limbic", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann29",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 29"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Retrosplenial cingulate cortex:__  This brain area is a part of the retrosplential region, which has been implicated in recall of autobiographical (episodic) information. The other parts of the retrosplenial region include BA 26 and BA 30."
+		        }		      
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "When this area is damaged along with other regions, _anterograde amnesia_ can result (http://en.wikipedia.org/wiki/Anterograde_amnesia)."
+		        }		      
+		    }
+		  ]
+		}
+	},
+	{
+		"camera"              : "622933",
+		"name"								: "brodmann 30",
+		"description"					: "",
+		"cameraPos"   : "Limbic", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann30",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 30"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Component of cingulate cortex:__  This small brain area is a part of the _retrosplential region_, which has been implicated in recall of autobiographical (_episodic_) information. The other parts of the retrosplenial region include BA 26 and BA 29."
+		        }		      
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "When this area is damaged along with other regions, _anterograde amnesia_ can result (http://en.wikipedia.org/wiki/Anterograde_amnesia)."
+		        }		      
+		    }
+		  ]
+		}
+	},
+	{
+		"camera"              : "622933",
+		"name"								: "brodmann 31",
+		"description"					: "",
+		"cameraPos"   : "Limbic", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann31",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 31"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Dorsal posterior cingulate cortex:__ Involved in self-referential thought as part of the _default mode_ network (http://en.wikipedia.org/wiki/Default_mode_network), the link between pain perception and retrieval of autobiographical (_episodic_) memories (Nielsen, Balslev, Hansen, 2005); and working memory.\nGiven these functions, it is interesting to note that less activation of this area is seen in experienced meditation*.\n*Brewer, Worhunsky, Gray, Tang, Weber et al. (2011)."
+		        }		      
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Increased size of the posterior cingulate cortex (of which BA 23 is a part) is related to decline in working memory performance* \n*Kozlovskiy, Vartanov, Nikonova, Pyasik, & Vclichkovsky (2012)"
+		        }		      
+		    }
+		  ]
+		}
+	},
+	{
+		"camera"              : "622933",
+		"name"								: "brodmann 34",
+		"description"					: "",
+		"cameraPos"   : "Limbic", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann34",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 34"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Dorsal entorhinal cortex, on the Parahippocampal gyrus:__ This area is involved in memory, both with encoding and retrieval of memories, as well as identifying social context, and recognition of scenes."
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Damage to BA 24 has been implicated in a wide range of behaviours including emotional instability, difficulty detecting errors, attentional, and _akinetic amutism_ (http://en.wikipedia.org/wiki/Akinetic_mutism). These deficits have been implicated in a number of disorders, ranging from schizophrenia to obsessive compulsive disorder. A comprehensive summary of anterior cingulate cortex pathology can be found here: http://en.wikipedia.org/wiki/Anterior_cingulate_cortex#Pathology"
+			  }
+		    }
+		  ]
+		}
+	},
+	{
+		"camera"              : "622933",
+		"name"								: "brodmann 35",
+		"description"					: "",
+		"cameraPos"   : "Limbic", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann35",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 35"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Perirhinal cortex, in the rhinal sulcus:__ BA 35, in addition to BA 36, comprises the perirhinal cortex. The perirhinal cortex is involved in memory, and detecting novel objects.\nIn addition, BA 35 is a multimodal area, receiving highly-processed sensory information from all sensory modalities."
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Neurofibrillary tangles associated with Alzheimer’s Disease are evident in the perirhinal cortex very early during the disease’s progression*.\n*Augustinack, Huber, Stevens, Roy, Frosch, et al. (2013)."
+			  }
+		    }
+		  ]
+		}
+	},
+	{
+		"camera"              : "622933",
+		"name"								: "brodmann 36",
+		"description"					: "",
+		"cameraPos"   : "Limbic", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann36",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 36"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Component of perirhinal cortex, in rhinal sulcus:__ BA 36, in addition to BA 35, comprises the _perirhinal cortex_. The perirhinal cortex is involved in memory, and detecting novel objects.\nIn addition, BA 35 is a multimodal area, receiving highly-processed sensory information from all sensory modalities."
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Neurofibrillary tangles associated with Alzheimer’s Disease are evident in the perirhinal cortex very early during the disease’s progression*.\n*Augustinack, Huber, Stevens, Roy, Frosch, et al. (2013)."
+			  }
+		    }
+		  ]
+		}
+	}]
+},
+{
+  "slug"        : "Language",
+  "name"        : "Language",
+  "owner"       : "verold",
+  "screenshot"  : "",
+  "description" : "Processing / production of language",
+  "timestamp"   : "",
+  "featured"    : true,
+  "icon"		: "/app/img/icon-language.svg",
+
+  "slides"      : [
+    {
+		"camera"              : "622933",
+		"name"								: "Language",
+		"description"					: "Processing / production of language",
+		"cameraPos"   : "Temporal", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann20",
+			"color": "#FA2B31"
+		},
+		{
+			"regionName": "brodmann21",
+			"color": "#FA2B31"
+		},
+		{
+			"regionName": "brodmann22",
+			"color": "#FA2B31"
+		},
+		{
+			"regionName": "brodmann39",
+			"color": "#FA2B31"
+		},
+		{
+			"regionName": "brodmann40",
+			"color": "#FA2B31"
+		},
+		{
+			"regionName": "brodmann41",
+			"color": "#FA2B31"
+		},
+		{
+			"regionName": "brodmann42",
+			"color": "#FA2B31"
+		},
+		{
+			"regionName": "brodmann44",
+			"color": "#FA2B31"
+		},
+		{
+			"regionName": "brodmann45",
+			"color": "#FA2B31"
+		},
+		{
+			"regionName": "brodmann47",
+			"color": "#FA2B31"
+		}
+		],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "Language"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Much of the language function is processed in several association areas, and there are two well-identified areas that are considered vital for human communication: Wernicke's area and Broca's area. These areas are usually located in the dominant hemisphere (the left hemisphere in 97% of people) and are considered the most important areas for language processing. This is why language is considered a localized and lateralized function."
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "However, the less-dominant hemisphere also participates in this cognitive function, and there is ongoing debate on the level of participation of the less-dominant areas."
+			  }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Other factors are believed to be relevant to language processing and verbal fluency, such as cortical thickness, participation of prefrontal areas of the cortex, and communication between right and left hemispheres."
+			  }
+		    },
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "Wernicke's area"
+			  }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Lateral surface of the brain with Brodmann's areas numbered."
+			  }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Wernicke's area is classically located in the posterior section of the superior temporal gyrus of the dominant hemisphere (Brodmann area 22), with some branches extending around the posterior section of the lateral sulcus, in the parietal lobe."
+			  }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Considering its position, Wernicke's area is located relatively between the auditory cortex and the visual cortex. The former is located in the transverse temporal gyrus (Brodmann areas 41 and 42), in the temporal lobe, while the latter is located in the posterior section of the occipital lobe (Brodmann areas 17, 18 and 19)."
+			  }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "While the dominant hemisphere is in charge of most of language comprehension, recent studies have demonstrated that the less dominant (right hemisphere in 97% of people) homologous area participates in the comprehension of ambiguous words, whether they are written or heard."
+			  }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Receptive speech has traditionally been associated with Wernicke's area of the posterior superior temporal gyrus (STG) and surrounding areas. Current models of speech perception include greater Wernicke's area, but also implicate a \"dorsal\" stream that includes regions also involved in speech motor processing."
+			  }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "First identified by Carl Wernicke in 1874, its main function is the comprehension of language and the ability to communicate coherent ideas, whether the language is vocal, written, signed."
+			  }
+		    },
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "Broca's area"
+			  }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Broca's area is usually formed by the pars triangularis and the pars opercularis of the inferior frontal gyrus (Brodmann areas 44 and 45). It follows Wernicke's area, and as such they both are usually located in the left hemisphere of the brain."
+			  }
+		    },
+
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Broca's area is involved mostly in the production of speech. Given its proximity to the motor cortex, neurons from Broca's area send signals to the larynx, tongue and mouth motor areas, which in turn send the signals to the corresponding muscles, thus allowing the creation of sounds."
+			  }
+		    },
+
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "A recent analysis of the specific roles of these sections of the left inferior frontal gyrus in verbal fluency indicates that Brodmann area 44 (pars opercularis) may subserve phonological fluency, whereas the Brodmann area 45 (pars triangularis) may be more involved in semantic fluency."
+			  }
+		    },
+		    {
+		    	"type":"header",
+		    	"data":{
+		    		"text":"Cortical thickness and verbal fluency"
+		    	}
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Recent studies have shown that the rate of increase in raw vocabulary fluency was positively correlated with the rate of cortical thinning. In other words, greater performance improvements were associated with greater thinning. This is more evident in left hemisphere regions, including the left lateral dorsal frontal and left lateral parietal regions: the usual locations of Broca's area and Wernicke's area, respectively."
+			  }
+		    },
+
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "After Sowell's studies, it was hypothesized that increased performance on the verbal fluency test would correlate with decreased cortical thickness in regions that have been associated with language: the middle and superior temporal cortex, the temporalâ€“parietal junction, and inferior and middle frontal cortex. Additionally, other areas related to sustained attention for executive tasks were also expected to be affected by cortical thinning."
+			  }
+		    },
+
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "One theory for the relation between cortical thinning and improved language fluency is the effect that synaptic pruning has in signaling between neurons. If cortical thinning reflects synaptic pruning, then pruning may occur relatively early for language-based abilities. The functional benefit would be a tightly honed neural system that is impervious to &quote;neural interference&quote;, avoiding undesired signals running through the neurons which could possibly worsen verbal fluency."
+			  }
+		    },
+
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "The strongest correlations between language fluency and cortical thicknesses were found in the temporal lobe and temporalâ€“parietal junction. Significant correlations were also found in the auditory cortex, the somatosensory cortex related to the organs responsible for speech (lips, tongue and mouth), and frontal and parietal regions related to attention and performance monitoring. The frontal and parietal regions are also evident in the right hemisphere."
+			  }
+		    }
+		  ]
+		}
+	},
+    {
+		"camera"              : "622933",
+		"name"								: "brodmann 20",
+		"description"					: "",
+		"cameraPos"   : "Temporal", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann20",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 20"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Inferior temporal gyrus:__ Involved memory/recognition and high-level visual processing. Some have argued that this region should also be considered part of Wernicke’s Area (BA 22), which is involved in processing of semantic meaning."
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Lesions to BA 11 can manifest in changes to personality and disinhibition, such as excessive swearing, impoverished social interactions, hypersexuality, risk-taking (gambling, drug use etc), and lack of empathy."
+			  }
+		    }
+		  ]
+		}
+	},
+	{
+		"camera"      : "622933",
+		"name"		  : "brodmann 21",
+		"description" : "Sensation and perception of the five senses, including somatosensory, vision, hearing, smell, and taste",
+		"cameraPos"   : "Temporal", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann21",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+			"data": [
+			{
+			  "type": "heading",
+			  "data": {
+			    "text": "brodmann 21"
+			  }
+			},
+			{
+			  "type": "text",
+			  "data": {
+			    "text": "__Middle temporal gyrus:__ Involved in processing of speech (language) and non-speech sounds. Language processing is governed by the left part of BA 21."
+			  }
+			}]
+		}
+	},
+	{
+			"camera"      : "622933",
+			"name"		  : "brodmann 22",
+			"description" : "Sensation and perception of the five senses, including somatosensory, vision, hearing, smell, and taste",
+			"cameraPos"   : "Temporal", 
+			"highlights"  : [
+			{
+				"regionName": "brodmann22",
+				"color": "#FA2B31"
+			}],
+		    "aside"	: {
+				"data": [
+				{
+				  "type": "heading",
+				  "data": {
+				    "text": "brodmann 22"
+				  }
+				},
+				{
+				  "type": "text",
+				  "data": {
+				    "text": "__Superior temporal gyrus (Wernicke’s Area):__ Involved in language processing –specifically, the meaning of words (_semantics_). "
+				  }
+				},
+				{
+				  "type": "text",
+				  "data": {
+				    "text": "The left side of BA 22 is implicated in generating and understanding individual words; the right side of BA 22 is implicated in discrimination of pitch and intensity of sound, which are used to process _prosody_ (vocal rhythm, stress, and intonation) and melody."
+				  }
+				},
+				{
+				  "type": "text",
+				  "data": {
+				    "text": "Lesions to BA 22 typically result in language disorder called fluent _aphasia_ http://en.wikipedia.org/wiki/Receptive_aphasia), which involves difficulty understanding language, either spoken or written. "
+				  }
+				}]
+			}
+	},
+		{
+		"camera"              : "622933",
+		"name"								: "brodmann 39",
+		"description"					: "",
+		"cameraPos"   : "Temporal", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann39",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 39"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Angular gyrus:__ Involved cognitive functions including language, mathematics, memory, attention, spatial cognition, and attributing mental states to others (_Theory of mind_, http://en.wikipedia.org/wiki/Theory_of_mind)."
+		      }
+		    },
+		    {
+		      "type": "list",
+		      "data": {
+		        "text": "__Other functions:__\n\n-  Self-awareness\n\n-  Out-of-body experiences\n\n-  Sight reading music"
+			      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Lesions to BA 39 contribute to semantic aphasia, where patients cease to recognize the meaning of words and phrases.\nIn lesions on the left side of BA39, deficits in arithmetic (acalculia, http://en.wikipedia.org/wiki/Acalculia), writing (agraphia, http://en.wikipedia.org/wiki/Agraphia), and difficulties dissociating between fingers emerge.\nIn lesions on the right side of BA39, deficits in visuospatial processing (e.g., “hemi-spatial neglect”)."
+		      }
+		    }
+		  ]
+		}
+	},
+	{
+		"camera"              : "622933",
+		"name"								: "brodmann 40",
+		"description"					: "",
+		"cameraPos"   : "Parietal", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann40",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 40"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Supramarginal gyrus:__ Involved in the processing and perception of language, particularly in reading."
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Lesions to BA40 may result in difficulties understanding written or spoken language (_fluent aphasia_, http://en.wikipedia.org/wiki/Receptive_aphasia), or deficits in comprehension or naming (_transcortical sensory aphasia_, http://en.wikipedia.org/wiki/Transcortical_sensory_aphasia) "
+			      }
+		    }
+		  ]
+		}
+	},
+	{
+		"camera"              : "622933",
+		"name"								: "brodmann 41",
+		"description"					: "",
+		"cameraPos"   : "Temporal", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann41",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 41"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Primary Auditory Cortex (A1):__ Responsible for all functions related to hearing."
+		      }
+		    },
+		    {
+		      "type": "list",
+		      "data": {
+		        "text": "__Other functions:__\n\n-  Auditory working memory\n\n-  Some visual speech perception"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Lesions to this area lead to deafness/ loss in awareness of sounds. However, reflex-based responses to sound are not impaired, as such sounds are processed elsewhere in the brain, namely the midbrain, and auditory brainstem."
+			      }
+		    }
+		  ]
+		}
+	},
+	{
+		"camera"              : "622933",
+		"name"								: "brodmann 42",
+		"description"					: "",
+		"cameraPos"   : "Temporal", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann42",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 42"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Primary Auditory Cortex (A1):__ Responsible for all functions related to hearing."
+		      }
+		    },
+		    {
+		      "type": "list",
+		      "data": {
+		        "text": "__Other functions:__\n\n-  Auditory working memory\n\n-  Some visual speech perception"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Lesions to this area lead to deafness/ loss in awareness of sounds. However, reflex-based responses to sound are not impaired, as such sounds are processed elsewhere in the brain, namely the midbrain, and auditory brainstem."
+			      }
+		    }
+		  ]
+		}
+	},
+	{
+		"camera"              : "622933",
+		"name"								: "brodmann 44",
+		"description"					: "",
+		"cameraPos"   : "Frontal", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann44",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 44"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Component of Broca’s Area, also called the Pars Opercularis:__ This area is critical for speech and language production, as well as processing of grammar (_syntax_), meaning (_semantics_), and phonemic information.\nBA 44 and BA 45 comprise Broca’s Area."
+		      }
+		    },
+		    {
+		      "type": "list",
+		      "data": {
+		        "text": "__Other functions:__\n\n-   Memory, including for syntax, autobiographical (_episodic_) memory, and declarative memory – that is, the memory we have for facts (e.g., \"The CN Tower\" is found in Toronto”).\n\n-  Motor, including mirror neurons, speech, and inhibition of motor responses\n\n-Perception of music"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Lesions to this area manifest in the loss of the ability to produce spoken or written language (_non-fluent aphasia_, http://en.wikipedia.org/wiki/Expressive_aphasia)."
+		      }
+		    }
+		  ]
+		}
+	},
+	{
+		"camera"              : "622933",
+		"name"								: "brodmann 45",
+		"description"					: "",
+		"cameraPos"   : "Frontal", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann45",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 45"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Component of Broca’s Area, also called the Pars Opercularis:__ Involved in processing meaning (_semantics_) in language, particularly in determining if a word represents something abstract or concrete, and generating language. "
+		      }
+		    },
+		    {
+		      "type": "list",
+		      "data": {
+		        "text": "__Oher functions:__\n\n-  May be involved in memory processes, like retrieving semantic information from memory\n\n- Motor, including mirror neurons for grasping, speech, and inhibition of motor responses\n\n-  Enjoyment of music\n\n-  For some: Any tasks that involves choosing a relevant representation of something amongst competing representations"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "Lesions to this area manifest in the loss of the ability to produce spoken or written language (_non-fluent aphasia_, http://en.wikipedia.org/wiki/Expressive_aphasia) "
+		      }
+		    }
+		  ]
+		}
+	},
+	{
+		"camera"              : "622933",
+		"name"								: "brodmann 47",
+		"description"					: "",
+		"cameraPos"   : "Frontal", 
+		"highlights"  : [
+		{
+			"regionName": "brodmann47",
+			"color": "#FA2B31"
+		}],
+	    "aside"	: {
+		  "data": [
+		    {
+		      "type": "heading",
+		      "data": {
+		        "text": "brodmann 47"
+		      }
+		    },
+		    {
+		      "type": "text",
+		      "data": {
+		        "text": "__Inferior prefrontal gyrus:__ Involved in the processing of grammar, or _syntax_, in language and music."
+		      }
+		    }
+		  ]
+		}
+	}
+	]
+}]
+
+
+
+
+
+
+
+

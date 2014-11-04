@@ -1,0 +1,13 @@
+
+<div class="media-drawer" ng-class="{ active: !filterOwner}"ng-click="filterOwnership()">
+	Public Presentations
+</div>
+<div class="media-drawer" ng-class="{ active: filterOwner}" ng-if="user.isAuthenticated" ng-click="filterOwnership(user.data.username)">
+	My Presentations
+</div>
+
+<div class="actions">
+	<button type="button" ng-if="user.isAuthenticated" ng-click="createNewPres()" class="btn btn-line-green btn-block">CREATE NEW PRESENTATION</button>
+</div>
+
+<ng-include src="'/app/drawer/branding.html'"></ng-include>

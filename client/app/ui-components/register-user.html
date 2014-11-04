@@ -1,0 +1,17 @@
+<div class="registerUser" ng-show="showRegistrationForm">
+	<div class="registerUserForm">
+		<h3>Register a Username with Brained.io</h3>
+		<!-- Registration Form -->
+		<form class="registration-form">
+			<!-- Error -->
+			<p ng-show="usernameTaken" class="error">This username is not available.</p>
+			<!-- Username -->
+			<input type="text" class="form-control" placeholder="Username" ng-model="selectedUsername" required/>
+			<!-- Register -->
+			<button type="button" ng-click="register(userName)" class="btn btn-line-green btn-block" ng-disabled="form.$invalid">REGISTER</button>
+			<!-- Log out -->
+			<button type="button" ng-click="logout()" class="btn btn-line-red btn-block">LOG OUT</button>
+		</form>
+	</div>
+	<div class="backdrop"/>
+</div>

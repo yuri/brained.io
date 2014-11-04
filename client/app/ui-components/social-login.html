@@ -1,0 +1,21 @@
+<div class="socialLogin" ng-if="appDelegate.showLogin">
+	<div class="socialLoginList">
+		<a class="closeBtn" href="" ng-click='close()'>
+      <i class="fa fa-times-circle"></i>
+    </a>
+		<h3>Log into Brained.io</h3>
+		<!-- Facebook -->
+		<button type="button" ng-click="login('facebook')" class="btn btn-line-green btn-block btn-social">
+			<i class="fa fa-facebook"></i> <span>FACEBOOK</span>
+		</button>
+		<!-- Twitter -->
+		<button type="button" ng-click="login('twitter')" class="btn btn-line-green btn-block btn-social">
+			<i class="fa fa-twitter"></i> <span>TWITTER</span>
+		</button>
+		<!-- Google Plus -->
+		<button type="button" ng-click="login('google')" class="btn btn-line-green btn-block btn-social">
+			<i class="fa fa-google-plus"></i> <span>GOOGLE PLUS</span>
+		</button>
+	</div>
+	<div class="backdrop"/>
+</div>

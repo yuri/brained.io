@@ -1,0 +1,29 @@
+<div class="presentation-title">
+
+	<div ui-sref="presentations" class="icon">
+		<img src="/img/back.svg">
+	</div>
+
+	<div class="name">
+		<h4>{{presentation.data.name}}</h4>
+		<h6>by {{presentation.data.owner}}</h6>
+	</div>
+	<br class="clear" />
+</div>
+
+<div class="actions" ng-if="presentation.data.can.edit ">
+	<!-- Edit Presentation -->
+	<a ui-sref="presentations.edit.slide({ owner: presentation.data.owner, slug: presentation.data.slug, slideId : appDelegate.activeSlideNo()})" class="btn btn-line-green btn-block" ng-if="!isMobileBrowser()">EDIT PRESENTATION</a>
+	<!-- Publish Presentation -->
+	<button ng-if="presentation.data.can.edit && !presentation.data.published" ng-click="presentation.publish(true)" type="button" class="btn btn-line-green btn-block">PUBLISH PRESENTATION</button>
+	<!-- Un-Publish Presentation -->
+	<button ng-if="presentation.data.can.edit && presentation.data.published" ng-click="presentation.publish(false)" type="button" class="btn btn-line-red btn-block">UN-PUBLISH PRESENTATION</button>
+	<!-- Mark Featured -->
+	<button ng-if="!presentation.data.featured && user.data.isAdmin" ng-click="presentation.markFeatured(true)" type="button" class="btn btn-line-green btn-block">FEATURED</button>
+	<!-- Mark Not Featured -->
+	<button ng-if="presentation.data.featured && user.data.isAdmin" ng-click="presentation.markFeatured(false)" type="button" class="btn btn-line-red btn-block">NOT FEATURED</button>
+	<!-- Delete Presentation -->
+	<button type="button" class="btn btn-line-red btn-block" ng-click="deletePresenation()">DELETE PRESENTATION</button>
+</div>
+
+<ng-include src="'/app/drawer/branding.html'"></ng-include>

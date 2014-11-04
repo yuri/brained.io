@@ -1,0 +1,12 @@
+<button class="btn btn-drp-dwn dropdown-toggle" data-toggle="dropdown">
+  Camera Position <span class="caret"></span>
+</button>
+<ul class="dropdown-menu" role="menu">
+  <li 
+  	ng-repeat="camera in cameras"
+  	ng-click="selectCamera($index)"
+  	ng-class="{'active': camera.selected}"
+  >
+  	<a href="">{{camera.name}}</a>
+  </li>
+</ul>

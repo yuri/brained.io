@@ -1,0 +1,20 @@
+<div class="st-blocks" ng-switch on="component.type">
+	<div class="st-block" ng-switch-when="text">
+	  	<div class='markdown' text='component.data.text' />
+	</div>
+	<div class="st-block" ng-switch-when="list">
+	  	<div class='markdown' text='component.data.text' />
+	</div>
+	<div class="st-block" ng-switch-when="heading">
+	  	<H3 class='markdown' text='component.data.text'></H3>
+	</div>
+	<div class="st-block" ng-switch-when="image">
+		<img class="slideImage" ng-src='{{component.data.file.url}}'/>
+	</div>
+	<div class="st-block" ng-switch-when="video">
+		<div class='video' url='component.data.url'></div>
+	</div>
+	<div class="st-block" ng-switch-default>
+	  	{{component.data}}
+	</div>
+</div>

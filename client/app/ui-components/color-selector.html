@@ -1,0 +1,16 @@
+<div class="handle pull-right" style="display:inline-block; width: 20px; height: 20px; background-color: {{modelObject}}" ng-click="togglePicker($event)"></div>
+
+<div class="colour-selector popover fade bottom in" style="display: block;" ng-show="showPicker">
+	<div class="arrow"></div>
+	<div class="">
+
+		<div ng-repeat="color in colorList" style="display:inline-block; width: 20px; height: 20px; background-color: {{color}};" ng-click="selectColor($event, color)"></div>
+		<br>
+		Opacity:
+		<input class="opacityRange" type="range" ng-model="opacity" min="0" max ="100" step="20" ng-click="updateOpacity($event)" ng-change="updateOpacity()"></input>
+           <br>
+           <a href="" ng-click="selectSide($event, true)" ng-class="{lblSelected:sides.leftSelected, lblNormal: !sides.leftSelected}">Left
+           <a href="" ng-click="selectSide($event, false)" ng-class="{lblSelected:sides.rightSelected, lblNormal: !sides.rightSelected}">Right
+           <br>
+	</div>
+</div>

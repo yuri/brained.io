@@ -1,0 +1,16 @@
+<div class="presentation-nav no-select">
+	<!-- Prev -->
+	<i ng-click="navService.prevSlide()" class="arrows fa fa-angle-left" ng-class="{disabled: navService.isFirstSlide()}"></i>
+	<!-- Pagination -->
+	<span class="slide-number">{{appDelegate.activeSlideNo()}} / {{presentation.data.slides.length}}</span>
+	<!-- Next -->
+	<i ng-click="navService.nextSlide()" class="arrows fa fa-angle-right" ng-class="{disabled: navService.isLastSlide()}"></i>
+</div>
+
+
+<div ng-if="appDelegate.isEditing" class="edit-controls">
+	<!-- Camera Selector -->
+	<camera-select ng-model="presentation.data.slides[appDelegate.activeSlideId()].cameraPos" id="camera-select"></camera-select>
+	<!-- Highlighted Areas Selector -->
+	<highlight-select ng-model="presentation.data.slides[appDelegate.activeSlideId()]" id="hlt-select"></highlight-select>
+</div>

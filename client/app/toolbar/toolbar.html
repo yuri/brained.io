@@ -1,0 +1,39 @@
+<nav class="toolbar">
+  
+  <ul>
+    <li ng-class="{ active: $state.includes('explorer') }">
+      <a ui-sref="explorer">EXPLORER</a>
+    </li>
+    
+    <li ng-class="{ active: $state.includes('presentations') }">
+      <a ui-sref="presentations">PRESENTATIONS</a>
+    </li>
+
+    <li class="brand">
+      <a class="brand" ng-href="#/">brained.io</a>
+    </li>
+
+    <li class="username" ng-show="user.isAuthenticated">
+      <span ng-show="user.data.username">{{ user.data.username | uppercase }}</span>
+      <span ng-hide="user.data.username">{{ user.data.displayName | uppercase }}</span>
+    </li>
+
+    <li class="login" ng-hide="!user.isReady || user.isAuthenticated">
+      <!-- Log in -->
+      <a href="" ng-click='signIn()'>LOGIN IN / SIGN UP</a>
+    </li>
+
+    <li class="logout" ng-show="user.isReady && user.isAuthenticated">
+      <!-- Log out -->
+      <a href="" ng-click='signOut()'>LOG OUT</a>
+    </li>
+
+    <li class="info">
+      <a href="" ng-click='toggleInfoModule()'>
+        <img src="/app/img/button-info.svg">
+      </a>
+    </li>
+ 
+  </ul>
+
+</nav>

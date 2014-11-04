@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="26px" height="26px" viewBox="-2 -2 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>back</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Flaticon_7522" sketch:type="MSLayerGroup" transform="translate(13.000000, 13.500000) scale(-1, -1) translate(-13.000000, -13.500000) translate(5.000000, 7.000000)" fill="#80D680">
+            <path d="M15.7281553,5.80063291 L10.5631068,0.329113924 C10.368932,0.123417722 10.0970874,0 9.86407767,0 C9.63106796,0 9.39805825,0.123417722 9.2038835,0.329113924 C8.81553398,0.740506329 8.81553398,1.3164557 9.2038835,1.7278481 L12.7378641,5.47151899 L0.932038835,5.47151899 C0.388349515,5.47151899 0,5.92405063 0,6.5 C0,7.07594937 0.388349515,7.48734177 0.932038835,7.48734177 L12.7378641,7.48734177 L9.2038835,11.2721519 C8.81553398,11.6835443 8.81553398,12.2594937 9.2038835,12.6708861 C9.59223301,13.0822785 10.1747573,13.0822785 10.5631068,12.6708861 L15.7281553,7.19936709 C15.9223301,6.99367089 16,6.78797468 16,6.5 C16,6.21202532 15.9223301,6.00632911 15.7281553,5.80063291 L15.7281553,5.80063291 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+        </g>
+        <circle id="Oval-1" stroke="#80D680" stroke-width="2" sketch:type="MSShapeGroup" cx="13" cy="13" r="13"></circle>
+    </g>
+</svg>

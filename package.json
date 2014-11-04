@@ -1,0 +1,26 @@
+{
+  "name": "BrainedApp",
+  "version": "0.2.0",
+  "description": "",
+  "main": "server/app.js",
+  "scripts": {
+    "start": "node server/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "./node_modules/bower/bin/bower install"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "bower": "1.2.8",
+    "koast": "^0.4.6-rc.1",
+    "moment": "~2.5.1",
+    "underscore": "~1.6.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.6.2",
+    "rangle-gulp": "0.0.5"
+  },
+  "engines": {
+    "node": ">=0.10.21"
+  }
+}

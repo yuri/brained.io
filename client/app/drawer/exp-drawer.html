@@ -1,0 +1,22 @@
+
+<div 
+	ng-repeat="presentation in presentation.other | filter: {owner:'verold'}"
+	ui-sref="explorer.detail({ slug : presentation.slug })" 
+	ng-class="{ active: appDelegate.isExpPresActive(presentation.slug) }"
+	class="media-drawer" 
+>
+
+	<!-- Functional Group Icon -->
+ 	<a class="pull-left">
+  	<img class="media-object" ng-src="{{presentation.icon}}">
+	</a>
+
+	<!-- Description -->
+	<div class="media-body">
+  	<h4 class="media-heading">{{presentation.name}}</h4>
+  	<small>{{presentation.description}}</small>
+	</div>
+
+</div>
+
+<ng-include src="'/app/drawer/branding.html'"></ng-include>

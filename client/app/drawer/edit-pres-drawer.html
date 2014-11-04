@@ -1,0 +1,35 @@
+<div class="media-drawer no-hover">
+	<span ng-click="cancel()">Cancel</span> |
+	<span ng-click="save()">Save</span> |
+	<span ng-click="preview()">View</span> |
+	<span ng-click="saveAndExit()">Exit</span>
+</div>
+
+<div class="media-drawer no-hover save-success" ng-show="saveSuccess">
+	Presentation Saved.
+</div>
+
+<div class="media-drawer">
+	<input class="form-control" type="text" ng-model="presentation.data.name" placeholder="Presentation title">
+</div>
+
+<div
+	ui-sref="presentations.edit.slide({ owner: presentation.data.owner, slug: presentation.data.slug, slideId : $index+1 })"
+	ui-sref-active="active"
+	class="media-drawer"
+	ng-repeat="slide in presentation.data.slides"
+>
+	<input class="form-control" type="text" ng-model="slide.name" placeholder="Slide title">
+</div>
+
+
+<div class="actions">
+	<!-- Add A Slide -->
+	<button ng-click="newSlide()" type="button" class="btn btn-line-green btn-block"><i class="fa fa-plus"></i> ADD A SLIDE</button>
+	<!-- Delete A Slide -->
+	<button ng-click="deleteSlide()" class="btn btn-line-red btn-block">DELETE THIS SLIDE</button>
+	<!-- Publish Presentation -->
+	<button ng-show="!presentation.data.published" ng-click="presentation.publish(true)" type="button" class="btn btn-line-green btn-block">PUBLISH PRESENTATION</button>
+	<!-- Un-Publish Presentation -->
+	<button ng-show="presentation.data.published" ng-click="presentation.publish(false)" type="button" class="btn btn-line-red btn-block">UN-PUBLISH PRESENTATION</button>
+</div>

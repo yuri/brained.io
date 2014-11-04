@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>language</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <path d="M15,1 C6.71570388,1 0,6.61209016 0,13.5349344 C0,16.4684918 1.16504854,19.1688607 3.03393204,21.0991393 L0.922281553,27.9998525 L9.45393204,25.2263033 C21.3222816,28.4147377 30,21.2366475 30,13.5349344 C30,6.61209016 23.2842961,1 15,1 L15,1 Z" id="language" fill="#FFC127" sketch:type="MSShapeGroup"></path>
+    </g>
+</svg>

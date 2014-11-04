@@ -1,0 +1,296 @@
+// ----------------------------------
+// Toolbar
+// ----------------------------------
+.toolbar {
+
+  ul {
+    height: @navbar-height;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    .flex-container;
+
+    li {
+      min-width: auto;
+      .flex-fixed-width(auto);
+
+      &.brand {
+        .flex-expander;
+      }
+      &.logout {
+        .flex-fixed-width(100px);
+      }
+      &.username {
+        .flex-fixed-width(150px);
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        text-align: right;
+
+        span {
+          display: inline-block;
+          width: 150px;
+          margin-top: @navbar-height*0.2;
+          padding-right: 20px;
+          line-height: @navbar-height*0.6;
+          height: @navbar-height*0.6;
+          white-space: nowrap;
+          overflow: hidden;
+          text-overflow: ellipsis;
+          border-right: 2px solid @dark-green;
+        }
+      }
+    }
+  }
+}
+
+
+
+// ----------------------------------
+// MAIN LAYOUT
+// ----------------------------------
+main {
+  
+  position: absolute;
+  top: @navbar-height;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: 0;
+  padding: 0;
+
+  .drawer {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: @drawer-closed-width;
+
+    .drawer-toggle {
+      width: 100%;
+    }
+
+    .drawer-content {
+      position: absolute;
+      top: 50px;
+      bottom: 0;
+      left: 0; 
+      display: none; 
+      width: 100%;
+    }
+
+    &.open {
+      width: @drawer-open-width;
+
+      .drawer-content { 
+        display: block; 
+      }
+    }
+  }
+
+  .brain {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: @drawer-closed-width;
+    right: @aside-width;
+
+    &.drawerOpen {
+      left: @drawer-open-width;
+    }
+
+    @media (max-width: @screen-md) {
+      right: 0px;
+    }
+
+    .no-select {
+      -webkit-user-select: none; /* webkit (safari, chrome) browsers */
+       -khtml-user-select: none; /* webkit (konqueror) browsers */
+         -moz-user-select: none; /* mozilla browsers */
+          -ms-user-select: none; /* IE10+ */
+    }
+
+  }
+  
+  .content {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: @drawer-closed-width;
+    right: 0px;
+    z-index: @zindex-content-view;
+
+    &.drawerOpen {
+      left: @drawer-open-width;
+    }
+  }
+  
+  .aside {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    width: @aside-width;
+    z-index: @zindex-brain;
+
+    .slideImage{
+      max-width : 298px;
+    }
+
+    @media (max-width: @screen-md) {
+      opacity: 0.25
+    }
+  }
+  .backdrop {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: @zindex-modal-background;
+    background-color: rgba(0,0,0,0.5);
+  }
+  
+
+  .newPresForm {
+    width: 400px;
+    //height: 200px;
+    position: absolute;
+    left: 50%;
+    margin-left: -100px;
+    top: 50%;
+    margin-top: -100px;
+    z-index: @zindex-loading-socket;
+    text-align: center;
+    color: @white;
+    background-color: rgba(0,0,0,0.7);
+    border-width: 0.5px;
+    form {
+      padding : 20px;
+    }
+    input {
+      text-align: center;
+    }
+  }
+
+  .infoModal{
+    position: absolute;
+    margin: auto;
+    top: -44px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 90%;
+    max-width: 600px;
+    height: 375px;
+    overflow: hidden;
+    padding: 30px;
+
+    z-index: @zindex-loading-socket;
+    font-size: 1.1em;
+    color: #222;
+    background-color: #f0f0f0;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    .closeBtn{
+      float: right;
+      color: #999;
+      position: absolute;
+      top: 0;
+      right: 0;
+      font-size: 22px;
+      width: 44px;
+      height: 44px;
+      line-height: 44px;
+      text-align: center;
+    }
+    .infoText{
+      overflow-y: auto;
+      height: inherit;
+      h3{
+        color: @dark-green;
+      }
+    }
+  }
+
+  .registerUserForm {
+    width: 450px;
+    position: absolute;
+    left: 50%;
+    margin-left: -225px;
+    top: 50%;
+    margin-top: -131px;
+    z-index: @zindex-loading-socket;
+    text-align: center;
+    color: @white;
+    background-color: @black;
+    border-radius: 5px;
+    border: 2px solid @white;
+    padding: 30px;
+
+    h3 { 
+      color: @white; 
+      margin-bottom: 40px;
+    }
+
+    .registration-form {
+      .error {
+        color: @red;
+        font-style: italic;
+        margin-bottom: 10px;
+      }
+
+      .form-control {
+        text-align: center;
+        margin-bottom: 5px;
+
+        &:focus {
+          border: none;
+          .box-shadow(none);
+        }
+      }
+    }
+  }
+
+  .socialLoginList{
+    width: 400px;
+    position: absolute;
+    left: 50%;
+    margin-left: -200px;
+    top: 50%;
+    margin-top: -131px;
+    z-index: @zindex-loading-socket;
+    text-align: center;
+    color: @white;
+    background-color: @black;
+    border-radius: 5px;
+    border: 2px solid @white;
+    padding: 30px;
+
+    h3 { 
+      color: @white; 
+      margin-bottom: 40px;
+    }
+
+    .btn-social {
+      i {
+        width: 20px;
+        margin: 0 20px;
+      }
+      span { text-align: left; display: inline-block; width: 100px; }
+    }
+
+    .closeBtn{
+      float: right;
+      color: @white;
+      position: absolute;
+      top: 0;
+      right: 0;
+      font-size: 22px;
+      width: 44px;
+      height: 44px;
+      line-height: 44px;
+      text-align: center;
+    }
+  }
+}

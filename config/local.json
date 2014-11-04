@@ -1,0 +1,28 @@
+{
+  "app": {
+    "portNumber": 3000
+  },
+  "oauth": {
+    "facebook": {
+      "clientID": "853173291394065",
+      "clientSecret": "env:FACEBOOK_CLIENT_SECRET",
+      "callbackURL": "http://localhost:3000/auth/facebook/callback"
+    },
+    "google": {
+      "clientID": "1096103007085-uc3u05l35ij5figj1jk1tvrs1a9f098b.apps.googleusercontent.com",
+      "clientSecret": "env:GOOGLE_CLIENT_SECRET",
+      "callbackURL": "http://local.brained.io:3000/auth/google/callback"
+    }
+  },
+  "secrets": {
+    "cookieSecret": "00x00141xj1BO"
+  },
+  "databases": [
+    {
+      "host": "127.0.0.1",
+      "port": "27017",
+      "db": "brained",
+      "schemas": "./server/dbSchemas.js"
+    }
+  ]
+}
